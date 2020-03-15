@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/mablhq/github-run-tests-action/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/mablhq/github-run-tests-action/commits/master.atom"/>
+  <title>Recent Commits to github-run-tests-action:master</title>
+  <updated>2019-11-13T19:45:07Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9fe9434e126e9ab07cf240a0f2fc5281faa8a0d8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/9fe9434e126e9ab07cf240a0f2fc5281faa8a0d8"/>
+    <title>
+        journey to test migration in public facing bits of action (#19)
+    </title>
+    <updated>2019-11-13T19:45:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1248241?s=30&amp;u=31d16cea26f60ee826b5e27e6891b28530a3be18&amp;v=4"/>
+    <author>
+      <name>gcooney</name>
+      <uri>https://github.com/gcooney</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;journey to test migration in public facing bits of action (#19)
+
+* journey to test migration in public facing bits of action
+
+* remove clarifying text&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0cba9fa3df3a379f0115066b1ad421ee59209a67</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/0cba9fa3df3a379f0115066b1ad421ee59209a67"/>
+    <title>
+        update README with example referencing action from outside the repo. …
+    </title>
+    <updated>2019-11-12T18:26:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1248241?s=30&amp;u=31d16cea26f60ee826b5e27e6891b28530a3be18&amp;v=4"/>
+    <author>
+      <name>gcooney</name>
+      <uri>https://github.com/gcooney</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update README with example referencing action from outside the repo. Fixes #15 (#17)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/52f678a0b85cfed1348503e0782ba9aa2846d6a0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/52f678a0b85cfed1348503e0782ba9aa2846d6a0"/>
+    <title>
+        Fix output values (#18)
+    </title>
+    <updated>2019-11-12T18:26:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1248241?s=30&amp;u=31d16cea26f60ee826b5e27e6891b28530a3be18&amp;v=4"/>
+    <author>
+      <name>gcooney</name>
+      <uri>https://github.com/gcooney</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix output values (#18)
+
+* get rid of inlined actions toolkit in favor of published one
+
+* pipe journey results to journey outputs, not plan results;  fixes #16&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/876d2958878ed1d148063d25b7e683d26f3383da</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/876d2958878ed1d148063d25b7e683d26f3383da"/>
+    <title>
+        Update index.html
+    </title>
+    <updated>2019-11-08T20:56:02Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/35081913?s=30&amp;v=4"/>
+    <author>
+      <name>erictatar</name>
+      <uri>https://github.com/erictatar</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update index.html&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dc16099b25601b6ecaef5fd7b85b62344d2e48a6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/dc16099b25601b6ecaef5fd7b85b62344d2e48a6"/>
+    <title>
+        Delete deployment-workflow.yaml
+    </title>
+    <updated>2019-11-08T20:54:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1248241?s=30&amp;u=31d16cea26f60ee826b5e27e6891b28530a3be18&amp;v=4"/>
+    <author>
+      <name>gcooney</name>
+      <uri>https://github.com/gcooney</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Delete deployment-workflow.yaml&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/21b40b330573504c665593ef1c6cc37e5987eeb5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/21b40b330573504c665593ef1c6cc37e5987eeb5"/>
+    <title>
+        Update index.html
+    </title>
+    <updated>2019-11-08T20:48:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/35081913?s=30&amp;v=4"/>
+    <author>
+      <name>erictatar</name>
+      <uri>https://github.com/erictatar</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update index.html&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d6d3d137b9d764b3ba170896e25a761b30d328b5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/d6d3d137b9d764b3ba170896e25a761b30d328b5"/>
+    <title>
+        update documentation with uri override input (#13)
+    </title>
+    <updated>2019-09-17T18:06:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1248241?s=30&amp;u=31d16cea26f60ee826b5e27e6891b28530a3be18&amp;v=4"/>
+    <author>
+      <name>gcooney</name>
+      <uri>https://github.com/gcooney</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update documentation with uri override input (#13)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e5dade7297c72a054b703e1503e6e2c538418f21</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/e5dade7297c72a054b703e1503e6e2c538418f21"/>
+    <title>
+        align properties better with our existing integrations;  Add a few ne…
+    </title>
+    <updated>2019-08-15T20:57:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1248241?s=30&amp;u=31d16cea26f60ee826b5e27e6891b28530a3be18&amp;v=4"/>
+    <author>
+      <name>gcooney</name>
+      <uri>https://github.com/gcooney</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;align properties better with our existing integrations;  Add a few ne… (#8)
+
+* align properties better with our existing integrations;  Add a few new propertiesl  retrieve related pull request
+
+* delete checked in npm details and compiled typescript;  build in the action instead
+
+* update READMEs, CONTRIBs, and build scripts&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3ad5c69b83623104d84fd6b2c0cf86bdaa8207fc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/3ad5c69b83623104d84fd6b2c0cf86bdaa8207fc"/>
+    <title>
+        Update index.html
+    </title>
+    <updated>2019-08-08T19:17:43Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/35081913?s=30&amp;v=4"/>
+    <author>
+      <name>erictatar</name>
+      <uri>https://github.com/erictatar</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update index.html&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ab9fbad1b74e371a17069808d622e99664b3f77c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/ab9fbad1b74e371a17069808d622e99664b3f77c"/>
+    <title>
+        Update index.html
+    </title>
+    <updated>2019-08-08T19:15:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/35081913?s=30&amp;v=4"/>
+    <author>
+      <name>erictatar</name>
+      <uri>https://github.com/erictatar</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update index.html&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6d308044fef763b41c63998f7883d02313d5ca9f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/6d308044fef763b41c63998f7883d02313d5ca9f"/>
+    <title>
+        Update index.html
+    </title>
+    <updated>2019-08-08T19:13:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/35081913?s=30&amp;v=4"/>
+    <author>
+      <name>erictatar</name>
+      <uri>https://github.com/erictatar</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update index.html&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c61f84aff59776bb423bed25b755dec31a3d5c4f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/c61f84aff59776bb423bed25b755dec31a3d5c4f"/>
+    <title>
+        Update index.html
+    </title>
+    <updated>2019-08-08T19:13:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/35081913?s=30&amp;v=4"/>
+    <author>
+      <name>erictatar</name>
+      <uri>https://github.com/erictatar</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update index.html&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6d37ab68a5edd1ff2635e36b8c34825503ab8e63</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/6d37ab68a5edd1ff2635e36b8c34825503ab8e63"/>
+    <title>
+        Remove whitespace
+    </title>
+    <updated>2019-08-08T16:46:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/523239?s=30&amp;u=39a1f9324c6d1d07eed0e9fadc07327fd0f2aaa4&amp;v=4"/>
+    <author>
+      <name>dabelche</name>
+      <uri>https://github.com/dabelche</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove whitespace&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5facb8ea0afa272ec2435b52d7de8bae3e1d6e90</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/5facb8ea0afa272ec2435b52d7de8bae3e1d6e90"/>
+    <title>
+        Update deployment.yml name
+    </title>
+    <updated>2019-08-08T15:04:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1248241?s=30&amp;u=31d16cea26f60ee826b5e27e6891b28530a3be18&amp;v=4"/>
+    <author>
+      <name>gcooney</name>
+      <uri>https://github.com/gcooney</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update deployment.yml name&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/43a13e6f5f9780e969e0f3813a69626184b5da42</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/43a13e6f5f9780e969e0f3813a69626184b5da42"/>
+    <title>
+        Update index.html
+    </title>
+    <updated>2019-08-08T15:01:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/35081913?s=30&amp;v=4"/>
+    <author>
+      <name>erictatar</name>
+      <uri>https://github.com/erictatar</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update index.html&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/137bf3e4f7002cc3edb51cfdfba5f3be42003439</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/137bf3e4f7002cc3edb51cfdfba5f3be42003439"/>
+    <title>
+        Update index.html (#11)
+    </title>
+    <updated>2019-08-08T14:53:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/35081913?s=30&amp;v=4"/>
+    <author>
+      <name>erictatar</name>
+      <uri>https://github.com/erictatar</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update index.html (#11)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3ce5133f72b4069ec7adaa768e1a30b4b759ae37</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/3ce5133f72b4069ec7adaa768e1a30b4b759ae37"/>
+    <title>
+        Really ugly inline styling updates
+    </title>
+    <updated>2019-08-08T00:21:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/7580895?s=30&amp;u=caba6969a4b7636f56613b8e9f7e6be619528417&amp;v=4"/>
+    <author>
+      <name>jzipursky</name>
+      <uri>https://github.com/jzipursky</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Really ugly inline styling updates&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ee66c6753b236f758b9eafef34886ba5038a912d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/ee66c6753b236f758b9eafef34886ba5038a912d"/>
+    <title>
+        fix branding
+    </title>
+    <updated>2019-08-07T23:48:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1248241?s=30&amp;u=31d16cea26f60ee826b5e27e6891b28530a3be18&amp;v=4"/>
+    <author>
+      <name>gcooney</name>
+      <uri>https://github.com/gcooney</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix branding&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/735bd281c1a2bd09da0119a128d1b90bfff51a92</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/735bd281c1a2bd09da0119a128d1b90bfff51a92"/>
+    <title>
+        Updated with Michaela&#39;s design
+    </title>
+    <updated>2019-08-07T20:43:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/7580895?s=30&amp;u=caba6969a4b7636f56613b8e9f7e6be619528417&amp;v=4"/>
+    <author>
+      <name>jzipursky</name>
+      <uri>https://github.com/jzipursky</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Updated with Michaela&amp;#39;s design&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4ae0997f0e22f7a5368535c8a411d2ed9e25b28b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/mablhq/github-run-tests-action/commit/4ae0997f0e22f7a5368535c8a411d2ed9e25b28b"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2019-08-07T17:23:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/1248241?s=30&amp;u=31d16cea26f60ee826b5e27e6891b28530a3be18&amp;v=4"/>
+    <author>
+      <name>gcooney</name>
+      <uri>https://github.com/gcooney</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

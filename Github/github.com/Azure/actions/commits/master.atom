@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/Azure/actions/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/Azure/actions/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/Azure/actions/commits/master.atom"/>
+  <title>Recent Commits to actions:master</title>
+  <updated>2020-02-25T04:26:04Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/97a0b230810aa293e1de1f62cd08fb1f16645110</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/actions/commit/97a0b230810aa293e1de1f62cd08fb1f16645110"/>
+    <title>
+        Set theme jekyll-theme-architect
+    </title>
+    <updated>2020-02-25T04:26:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25389593?s=30&amp;v=4"/>
+    <author>
+      <name>N-Usha</name>
+      <uri>https://github.com/N-Usha</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Set theme jekyll-theme-architect&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e4e9224b9b48647bb79b221c87b94d0a1589e77d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/actions/commit/e4e9224b9b48647bb79b221c87b94d0a1589e77d"/>
+    <title>
+        Set theme jekyll-theme-architect
+    </title>
+    <updated>2020-02-25T04:25:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25389593?s=30&amp;v=4"/>
+    <author>
+      <name>N-Usha</name>
+      <uri>https://github.com/N-Usha</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Set theme jekyll-theme-architect&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/95d49fbc2c4abb844925e6501a31848da5d952a2</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/actions/commit/95d49fbc2c4abb844925e6501a31848da5d952a2"/>
+    <title>
+        Update index.html
+    </title>
+    <updated>2020-02-25T04:23:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25389593?s=30&amp;v=4"/>
+    <author>
+      <name>N-Usha</name>
+      <uri>https://github.com/N-Usha</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update index.html&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d2b3b491994586756d817824d2fb26e330655ce6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/actions/commit/d2b3b491994586756d817824d2fb26e330655ce6"/>
+    <title>
+        Add files via upload
+    </title>
+    <updated>2020-02-25T04:22:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25389593?s=30&amp;v=4"/>
+    <author>
+      <name>N-Usha</name>
+      <uri>https://github.com/N-Usha</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add files via upload&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/029109d8fdfe7ff51615ab228e139f56087bf583</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/actions/commit/029109d8fdfe7ff51615ab228e139f56087bf583"/>
+    <title>
+        Create colorschememapping.xml
+    </title>
+    <updated>2020-02-25T04:21:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25389593?s=30&amp;v=4"/>
+    <author>
+      <name>N-Usha</name>
+      <uri>https://github.com/N-Usha</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Create colorschememapping.xml&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/24d5d3694ebc78f91cd51aea28cf792ebc9e79fe</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/actions/commit/24d5d3694ebc78f91cd51aea28cf792ebc9e79fe"/>
+    <title>
+        Set theme jekyll-theme-minimal
+    </title>
+    <updated>2020-02-19T09:13:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25389593?s=30&amp;v=4"/>
+    <author>
+      <name>N-Usha</name>
+      <uri>https://github.com/N-Usha</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Set theme jekyll-theme-minimal&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3459e94c5c9926c59dd2ef8a4985fc64c415c66e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/actions/commit/3459e94c5c9926c59dd2ef8a4985fc64c415c66e"/>
+    <title>
+        Create index.html
+    </title>
+    <updated>2020-02-19T09:08:38Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25389593?s=30&amp;v=4"/>
+    <author>
+      <name>N-Usha</name>
+      <uri>https://github.com/N-Usha</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Create index.html&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/96c2f0ac3feacb8e1ee4d41b45f0b6d47af09120</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/actions/commit/96c2f0ac3feacb8e1ee4d41b45f0b6d47af09120"/>
+    <title>
+        Merge pull request #37 from xt0rted/patch-1
+    </title>
+    <updated>2019-12-23T06:04:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/25762922?s=30&amp;u=0791f96e96572623ca8ef1519952aedc3a3e2963&amp;v=4"/>
+    <author>
+      <name>ds-ms</name>
+      <uri>https://github.com/ds-ms</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #37 from xt0rted/patch-1
+
+Remove extra space from action name&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/59004845ee78caaca0b9255056eec4c309e5d97d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/actions/commit/59004845ee78caaca0b9255056eec4c309e5d97d"/>
+    <title>
+        Remove extra space from action name
+    </title>
+    <updated>2019-12-20T18:27:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/831974?s=30&amp;v=4"/>
+    <author>
+      <name>xt0rted</name>
+      <uri>https://github.com/xt0rted</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Remove extra space from action name&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f2525874ff00fd6b81c83e68ed364f28b15c6520</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/actions/commit/f2525874ff00fd6b81c83e68ed364f28b15c6520"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2019-12-17T06:49:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25389593?s=30&amp;v=4"/>
+    <author>
+      <name>N-Usha</name>
+      <uri>https://github.com/N-Usha</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/eb1daad8c5a8d775a8060f46f6044e6b09660e4f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/actions/commit/eb1daad8c5a8d775a8060f46f6044e6b09660e4f"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2019-11-20T11:17:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25389593?s=30&amp;v=4"/>
+    <author>
+      <name>N-Usha</name>
+      <uri>https://github.com/N-Usha</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8b73c53418ab68abedd3130bbf2ea468d2283752</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/actions/commit/8b73c53418ab68abedd3130bbf2ea468d2283752"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2019-11-13T12:06:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25389593?s=30&amp;v=4"/>
+    <author>
+      <name>N-Usha</name>
+      <uri>https://github.com/N-Usha</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/340afec6b80abf8fe9cfb8c4624bc7e5a62bedf5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/actions/commit/340afec6b80abf8fe9cfb8c4624bc7e5a62bedf5"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2019-11-13T12:05:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25389593?s=30&amp;v=4"/>
+    <author>
+      <name>N-Usha</name>
+      <uri>https://github.com/N-Usha</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/32077359cf8f7f0ffcb7fb90d458984d874b25b3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/actions/commit/32077359cf8f7f0ffcb7fb90d458984d874b25b3"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2019-11-11T11:34:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25389593?s=30&amp;v=4"/>
+    <author>
+      <name>N-Usha</name>
+      <uri>https://github.com/N-Usha</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f02ba7411ea0707312d0f9ae508cdb4caec9d873</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/actions/commit/f02ba7411ea0707312d0f9ae508cdb4caec9d873"/>
+    <title>
+        azure login action
+    </title>
+    <updated>2019-11-11T08:53:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/9328564?s=30&amp;u=21b55f3cb635d5bd122113c7a63374604108a687&amp;v=4"/>
+    <author>
+      <name>msftgits</name>
+      <uri>https://github.com/msftgits</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;azure login action&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

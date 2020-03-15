@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/coverallsapp/github-action/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/coverallsapp/github-action/commits/master.atom"/>
+  <title>Recent Commits to github-action:master</title>
+  <updated>2019-11-13T17:55:07Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/23ce47a9de7d33a4bfcde960b03ea5504a78b75d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/23ce47a9de7d33a4bfcde960b03ea5504a78b75d"/>
+    <title>
+        Merge pull request #8 from XhmikosR/patch-1
+    </title>
+    <updated>2019-11-13T17:55:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1129?s=30&amp;u=8f604ea208654da4e8976e735505c3030a20ab6b&amp;v=4"/>
+    <author>
+      <name>nickmerwin</name>
+      <uri>https://github.com/nickmerwin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #8 from XhmikosR/patch-1
+
+Tweak README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/79f9658d938bfe10db15ce91da1681d89e84be6a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/79f9658d938bfe10db15ce91da1681d89e84be6a"/>
+    <title>
+        Tweak README.md
+    </title>
+    <updated>2019-11-13T07:36:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/349621?s=30&amp;u=7a5274e187f0b3476d3d1ea2ad2f9974a8bca846&amp;v=4"/>
+    <author>
+      <name>XhmikosR</name>
+      <uri>https://github.com/XhmikosR</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Tweak README.md
+
+* use `node-version` for `actions/setup-node`
+* use the v1 tags for checkout and setup-node
+* reduce indentation in code blocks
+* add missing trailing slashes in URLs
+* uppercase `GITHUB_TOKEN`&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/68bd06febda5ac8d25bb7edef390cc144f16e07f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/68bd06febda5ac8d25bb7edef390cc144f16e07f"/>
+    <title>
+        README added troubleshooting
+    </title>
+    <updated>2019-11-12T20:36:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1129?s=30&amp;u=8f604ea208654da4e8976e735505c3030a20ab6b&amp;v=4"/>
+    <author>
+      <name>nickmerwin</name>
+      <uri>https://github.com/nickmerwin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;README added troubleshooting&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/731a34cc80e3d55a509cb15ecdeb8f0535562f26</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/731a34cc80e3d55a509cb15ecdeb8f0535562f26"/>
+    <title>
+        Update &quot;GITHUB_TOKEN&quot; docs link
+    </title>
+    <updated>2019-10-16T20:20:06Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1129?s=30&amp;u=8f604ea208654da4e8976e735505c3030a20ab6b&amp;v=4"/>
+    <author>
+      <name>nickmerwin</name>
+      <uri>https://github.com/nickmerwin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update &amp;quot;GITHUB_TOKEN&amp;quot; docs link&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8d2940685b011d380ca033e2786e92812f915b1d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/8d2940685b011d380ca033e2786e92812f915b1d"/>
+    <title>
+        Merge pull request #3 from ibakshay/master
+    </title>
+    <updated>2019-08-15T15:53:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1129?s=30&amp;u=8f604ea208654da4e8976e735505c3030a20ab6b&amp;v=4"/>
+    <author>
+      <name>nickmerwin</name>
+      <uri>https://github.com/nickmerwin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3 from ibakshay/master
+
+Fix: Spelling mistake&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/20b0d4f66277ddbd33642018cef4777e38f507b8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/20b0d4f66277ddbd33642018cef4777e38f507b8"/>
+    <title>
+        Fix: Spelling mistake
+    </title>
+    <updated>2019-08-15T09:25:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/33329946?s=30&amp;u=b64c6b3bad252bad9ff52857c5d16351bfcecfe7&amp;v=4"/>
+    <author>
+      <name>ibakshay</name>
+      <uri>https://github.com/ibakshay</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix: Spelling mistake&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/eb2b3ea56e799929d815721804edda3da1453728</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/eb2b3ea56e799929d815721804edda3da1453728"/>
+    <title>
+        README include more details about `github_token`
+    </title>
+    <updated>2019-08-14T15:43:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1129?s=30&amp;u=8f604ea208654da4e8976e735505c3030a20ab6b&amp;v=4"/>
+    <author>
+      <name>nickmerwin</name>
+      <uri>https://github.com/nickmerwin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;README include more details about `github_token`
+
+w/ link to docs&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b3a3510249b4b0d60c6be184bafded11d947d2e3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/b3a3510249b4b0d60c6be184bafded11d947d2e3"/>
+    <title>
+        Merge pull request #1 from MarcusNotheis/patch-1
+    </title>
+    <updated>2019-08-13T17:43:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1129?s=30&amp;u=8f604ea208654da4e8976e735505c3030a20ab6b&amp;v=4"/>
+    <author>
+      <name>nickmerwin</name>
+      <uri>https://github.com/nickmerwin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1 from MarcusNotheis/patch-1
+
+Fixed Readme Typo&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/17d8eabbf959b994ed7a33aec19d3a3bba50311b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/17d8eabbf959b994ed7a33aec19d3a3bba50311b"/>
+    <title>
+        Fixed Readme Typo
+    </title>
+    <updated>2019-08-13T13:01:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/8775211?s=30&amp;u=3d250d2d8f1d41bd7a6dde7a11f1da5f9e7b448c&amp;v=4"/>
+    <author>
+      <name>MarcusNotheis</name>
+      <uri>https://github.com/MarcusNotheis</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fixed Readme Typo
+
+Fixed typo in default value for `path-to-lcov`&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/832e70bcbe5b5814e14e09a4d4239eeb4dd8ca3b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/832e70bcbe5b5814e14e09a4d4239eeb4dd8ca3b"/>
+    <title>
+        Update action.yml
+    </title>
+    <updated>2019-08-08T17:22:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/155044?s=30&amp;u=5bb56a809d3086e37beb824d67f444432621ecfe&amp;v=4"/>
+    <author>
+      <name>mscoutermarsh</name>
+      <uri>https://github.com/mscoutermarsh</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update action.yml&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c53990806b2d9ba02d3e9bcad851b767510a7978</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/c53990806b2d9ba02d3e9bcad851b767510a7978"/>
+    <title>
+        Update name
+    </title>
+    <updated>2019-08-08T17:22:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/155044?s=30&amp;u=5bb56a809d3086e37beb824d67f444432621ecfe&amp;v=4"/>
+    <author>
+      <name>mscoutermarsh</name>
+      <uri>https://github.com/mscoutermarsh</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update name&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/97f6ea2d076d8596d04f2b7b3689e1a0dd704341</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/97f6ea2d076d8596d04f2b7b3689e1a0dd704341"/>
+    <title>
+        update &quot;uses&quot; in readme
+    </title>
+    <updated>2019-08-08T17:10:24Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1129?s=30&amp;u=8f604ea208654da4e8976e735505c3030a20ab6b&amp;v=4"/>
+    <author>
+      <name>nickmerwin</name>
+      <uri>https://github.com/nickmerwin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update &amp;quot;uses&amp;quot; in readme&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/093d860f6efabe8644f127189c79f3d963a4fd00</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/093d860f6efabe8644f127189c79f3d963a4fd00"/>
+    <title>
+        tsc buid
+    </title>
+    <updated>2019-08-07T22:01:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1129?s=30&amp;u=8f604ea208654da4e8976e735505c3030a20ab6b&amp;v=4"/>
+    <author>
+      <name>nickmerwin</name>
+      <uri>https://github.com/nickmerwin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;tsc buid&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7e28870874880ee94d79ebbbec5044305df39e2b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/7e28870874880ee94d79ebbbec5044305df39e2b"/>
+    <title>
+        one more gif
+    </title>
+    <updated>2019-08-07T21:01:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1129?s=30&amp;u=8f604ea208654da4e8976e735505c3030a20ab6b&amp;v=4"/>
+    <author>
+      <name>nickmerwin</name>
+      <uri>https://github.com/nickmerwin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;one more gif&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/aed2cdfe9c371fe0663af4a1564b1318920f6807</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/aed2cdfe9c371fe0663af4a1564b1318920f6807"/>
+    <title>
+        gif and readme changes
+    </title>
+    <updated>2019-08-07T20:57:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1129?s=30&amp;u=8f604ea208654da4e8976e735505c3030a20ab6b&amp;v=4"/>
+    <author>
+      <name>nickmerwin</name>
+      <uri>https://github.com/nickmerwin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;gif and readme changes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dce2174cbba46c93cc1b98145a9dd8a54a4ca5a9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/dce2174cbba46c93cc1b98145a9dd8a54a4ca5a9"/>
+    <title>
+        4.4mb gif
+    </title>
+    <updated>2019-08-07T20:53:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1129?s=30&amp;u=8f604ea208654da4e8976e735505c3030a20ab6b&amp;v=4"/>
+    <author>
+      <name>nickmerwin</name>
+      <uri>https://github.com/nickmerwin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;4.4mb gif&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4314c5833bebc4ceaa91025fffd6a8e33c57e79e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/4314c5833bebc4ceaa91025fffd6a8e33c57e79e"/>
+    <title>
+        gif &lt;5mb
+    </title>
+    <updated>2019-08-07T20:45:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1129?s=30&amp;u=8f604ea208654da4e8976e735505c3030a20ab6b&amp;v=4"/>
+    <author>
+      <name>nickmerwin</name>
+      <uri>https://github.com/nickmerwin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;gif &amp;lt;5mb&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/66f8c72b3ee2ebb2da91fcc254c0a292099f8002</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/66f8c72b3ee2ebb2da91fcc254c0a292099f8002"/>
+    <title>
+        gif size
+    </title>
+    <updated>2019-08-07T20:42:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1129?s=30&amp;u=8f604ea208654da4e8976e735505c3030a20ab6b&amp;v=4"/>
+    <author>
+      <name>nickmerwin</name>
+      <uri>https://github.com/nickmerwin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;gif size&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/eae3ad3e16138994d531879f2f39e5aaf0397c59</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/eae3ad3e16138994d531879f2f39e5aaf0397c59"/>
+    <title>
+        updated demo gif
+    </title>
+    <updated>2019-08-07T20:31:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1129?s=30&amp;u=8f604ea208654da4e8976e735505c3030a20ab6b&amp;v=4"/>
+    <author>
+      <name>nickmerwin</name>
+      <uri>https://github.com/nickmerwin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;updated demo gif&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8b19238ed06718041a509a3d435988aa62f26a95</id>
+    <link type="text/html" rel="alternate" href="https://github.com/coverallsapp/github-action/commit/8b19238ed06718041a509a3d435988aa62f26a95"/>
+    <title>
+        readme w/ demo gif
+    </title>
+    <updated>2019-08-07T20:19:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1129?s=30&amp;u=8f604ea208654da4e8976e735505c3030a20ab6b&amp;v=4"/>
+    <author>
+      <name>nickmerwin</name>
+      <uri>https://github.com/nickmerwin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;readme w/ demo gif&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

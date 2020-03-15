@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/actions/stale/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/actions/stale/commits/master.atom"/>
+  <title>Recent Commits to stale:master</title>
+  <updated>2019-12-10T16:22:42Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0d6a8e531449ecb97c9b6046b6b5d8eeac8b5115</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/0d6a8e531449ecb97c9b6046b6b5d8eeac8b5115"/>
+    <title>
+        Merge pull request #26 from actions/ethomson/update_description
+    </title>
+    <updated>2019-12-10T16:22:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/185122?s=30&amp;v=4"/>
+    <author>
+      <name>chrispat</name>
+      <uri>https://github.com/chrispat</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #26 from actions/ethomson/update_description
+
+Update description&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/eb8d275a4ad4824f190c0efc7bbf35496bfd56b5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/eb8d275a4ad4824f190c0efc7bbf35496bfd56b5"/>
+    <title>
+        Merge pull request #29 from actions/add-syntax-highlighting
+    </title>
+    <updated>2019-12-10T16:22:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/185122?s=30&amp;v=4"/>
+    <author>
+      <name>chrispat</name>
+      <uri>https://github.com/chrispat</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #29 from actions/add-syntax-highlighting
+
+Add syntax highlighting to examples&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c2f51ac751513d20df37a51f58c51d68b7a39192</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/c2f51ac751513d20df37a51f58c51d68b7a39192"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2019-11-27T15:04:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/50486?s=30&amp;u=c009c92a04ce31c49390b7cd6eda5ad8c1f20410&amp;v=4"/>
+    <author>
+      <name>gimenete</name>
+      <uri>https://github.com/gimenete</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d6c1b70646d95ee3159f45ba6d6e8fc433c5c8a9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/d6c1b70646d95ee3159f45ba6d6e8fc433c5c8a9"/>
+    <title>
+        Update description
+    </title>
+    <updated>2019-11-08T16:47:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1130014?s=30&amp;u=baab4900e651b50553a049146167b9e6b66a8a45&amp;v=4"/>
+    <author>
+      <name>ethomson</name>
+      <uri>https://github.com/ethomson</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update description&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/08796943ddffac00c013f353bd4d5ac5f8f44d30</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/08796943ddffac00c013f353bd4d5ac5f8f44d30"/>
+    <title>
+        Merge pull request #14 from actions/kaylangan-per-day
+    </title>
+    <updated>2019-08-29T18:52:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/10550641?s=30&amp;u=0b05f14a0003ab56e4bd2bbf6f9fc80bebdc8d00&amp;v=4"/>
+    <author>
+      <name>jeremyepling</name>
+      <uri>https://github.com/jeremyepling</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #14 from actions/kaylangan-per-day
+
+Example runs once per day instead of per hour&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ded3b10c18ed5d321d5576b5976162138986766a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/ded3b10c18ed5d321d5576b5976162138986766a"/>
+    <title>
+        Example runs once per day instead of per hour
+    </title>
+    <updated>2019-08-29T18:50:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/20052233?s=30&amp;u=a2791c2ed72c4812516bbcfd850b5fa4e44987e1&amp;v=4"/>
+    <author>
+      <name>kaylangan</name>
+      <uri>https://github.com/kaylangan</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Example runs once per day instead of per hour&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9f69ef12ad1ae539589cc84100eacea217506838</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/9f69ef12ad1ae539589cc84100eacea217506838"/>
+    <title>
+        Feature: Exempt labels from action (#11)
+    </title>
+    <updated>2019-08-27T19:58:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/3004111?s=30&amp;u=4e947303a8465c0dc1a50df4b06de112ef388848&amp;v=4"/>
+    <author>
+      <name>ryanwilsonperkin</name>
+      <uri>https://github.com/ryanwilsonperkin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Feature: Exempt labels from action (#11)
+
+* Change name to isLabeled for re-use with &amp;quot;exempt&amp;quot;
+
+* Add args for exempt labels
+
+* Skip operation if labeled exempt
+
+* Only check for exempt label if defined
+
+Since the exempt label parameter is not required, we don&amp;#39;t want to both
+checking for it if it was not defined.
+
+* Don&amp;#39;t reduce operationsLeft if exempt
+
+This variable just tracks the number of operations we&amp;#39;re using to avoid
+rate limiting. Since the exempt check wouldn&amp;#39;t result in a rate-limited
+request, we don&amp;#39;t need to reduce the variable.
+
+* Update the action.yml with new exempt values
+
+* Update README with example of exempt labels
+
+* Remove redundant defaults&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cc7f3505fc24bd9c0c827f80ed80337e4e96c5c8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/cc7f3505fc24bd9c0c827f80ed80337e4e96c5c8"/>
+    <title>
+        Spelling fixes in action description (#7)
+    </title>
+    <updated>2019-08-19T18:34:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1130014?s=30&amp;u=baab4900e651b50553a049146167b9e6b66a8a45&amp;v=4"/>
+    <author>
+      <name>ethomson</name>
+      <uri>https://github.com/ethomson</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Spelling fixes in action description (#7)
+
+Fix typo &amp;#39;iusses&amp;#39; -&amp;gt; &amp;#39;issues&amp;#39;.  Also update &amp;#39;prs&amp;#39; to &amp;#39;pull requests&amp;#39;.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0cad222e9d65d41c06d873170a65d45760238fac</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/0cad222e9d65d41c06d873170a65d45760238fac"/>
+    <title>
+        Fix wasLastUpdatedBefore to be in days, not hours (#8)
+    </title>
+    <updated>2019-08-19T18:28:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1819344?s=30&amp;u=217cbd3c40216b8bde29a24dae7755651f4dbdd9&amp;v=4"/>
+    <author>
+      <name>jrbriggs</name>
+      <uri>https://github.com/jrbriggs</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix wasLastUpdatedBefore to be in days, not hours (#8)
+
+The parameters and variables names make it seem like this is the intended behavior.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/903ff7344d47cf7df6224266f8cafd65b57cbd1f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/903ff7344d47cf7df6224266f8cafd65b57cbd1f"/>
+    <title>
+        Merge pull request #6 from actions/case-insensitive-bugfix
+    </title>
+    <updated>2019-08-07T14:42:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/17864647?s=30&amp;u=a2b62812eaa0ec4e9004afd6be1cef8a72468378&amp;v=4"/>
+    <author>
+      <name>shawnnapora</name>
+      <uri>https://github.com/shawnnapora</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #6 from actions/case-insensitive-bugfix
+
+bugfix for case insensitive issues&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/898b0bc63fb1fbc1101ae7bb76479ae28f900cd7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/898b0bc63fb1fbc1101ae7bb76479ae28f900cd7"/>
+    <title>
+        format, IssueLabels -&gt; IssueLabel
+    </title>
+    <updated>2019-08-07T14:36:13Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/17864647?s=30&amp;u=a2b62812eaa0ec4e9004afd6be1cef8a72468378&amp;v=4"/>
+    <author>
+      <name>shawnnapora</name>
+      <uri>https://github.com/shawnnapora</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;format, IssueLabels -&amp;gt; IssueLabel&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4924c684b50da4d51f7fbaa9ee53eb51aaeb4c8c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/4924c684b50da4d51f7fbaa9ee53eb51aaeb4c8c"/>
+    <title>
+        More nits
+    </title>
+    <updated>2019-08-07T14:33:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/42773683?s=30&amp;u=67f4ddd429bdf15b62c64a7f927603f3dff01fc7&amp;v=4"/>
+    <author>
+      <name>damccorm</name>
+      <uri>https://github.com/damccorm</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;More nits&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c7694b0ceaa88f0baba578ef42344cef2af70b74</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/c7694b0ceaa88f0baba578ef42344cef2af70b74"/>
+    <title>
+        Packag nits (#5)
+    </title>
+    <updated>2019-08-07T14:19:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/42773683?s=30&amp;u=67f4ddd429bdf15b62c64a7f927603f3dff01fc7&amp;v=4"/>
+    <author>
+      <name>damccorm</name>
+      <uri>https://github.com/damccorm</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Packag nits (#5)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1acc1d62d983cd2af9605e8a66c1808869f1eb32</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/1acc1d62d983cd2af9605e8a66c1808869f1eb32"/>
+    <title>
+        bugfix for case insensitive issues
+    </title>
+    <updated>2019-08-07T14:14:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/17864647?s=30&amp;u=a2b62812eaa0ec4e9004afd6be1cef8a72468378&amp;v=4"/>
+    <author>
+      <name>shawnnapora</name>
+      <uri>https://github.com/shawnnapora</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;bugfix for case insensitive issues&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f9ffc055203376834b126aba481f0abc50dba623</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/f9ffc055203376834b126aba481f0abc50dba623"/>
+    <title>
+        Merge pull request #4 from actions/case-insensitive-label
+    </title>
+    <updated>2019-08-07T13:32:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/17864647?s=30&amp;u=a2b62812eaa0ec4e9004afd6be1cef8a72468378&amp;v=4"/>
+    <author>
+      <name>shawnnapora</name>
+      <uri>https://github.com/shawnnapora</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #4 from actions/case-insensitive-label
+
+Update label comparison to be case insensitive&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/27d7ba7378959b3e5d26f86fd5aaa2ed9fcce2bc</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/27d7ba7378959b3e5d26f86fd5aaa2ed9fcce2bc"/>
+    <title>
+        Merge pull request #3 from actions/optional-pr
+    </title>
+    <updated>2019-08-07T13:32:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/17864647?s=30&amp;u=a2b62812eaa0ec4e9004afd6be1cef8a72468378&amp;v=4"/>
+    <author>
+      <name>shawnnapora</name>
+      <uri>https://github.com/shawnnapora</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3 from actions/optional-pr
+
+Fix pr message to be optional&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9e2da93435f3c10638400cc674dac54c7e6315af</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/9e2da93435f3c10638400cc674dac54c7e6315af"/>
+    <title>
+        added debug
+    </title>
+    <updated>2019-08-07T13:31:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/17864647?s=30&amp;u=a2b62812eaa0ec4e9004afd6be1cef8a72468378&amp;v=4"/>
+    <author>
+      <name>shawnnapora</name>
+      <uri>https://github.com/shawnnapora</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;added debug&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9ad2bf1e3050e7fa9e734d38a1a07774a76ba87a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/9ad2bf1e3050e7fa9e734d38a1a07774a76ba87a"/>
+    <title>
+        updated label comparison to be case insensitive
+    </title>
+    <updated>2019-08-06T22:29:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/17864647?s=30&amp;u=a2b62812eaa0ec4e9004afd6be1cef8a72468378&amp;v=4"/>
+    <author>
+      <name>shawnnapora</name>
+      <uri>https://github.com/shawnnapora</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;updated label comparison to be case insensitive&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1aa89de5b1331b4c9234f5fa9dbe60402bfba414</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/1aa89de5b1331b4c9234f5fa9dbe60402bfba414"/>
+    <title>
+        fix pr message to be optional
+    </title>
+    <updated>2019-08-06T22:26:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/17864647?s=30&amp;u=a2b62812eaa0ec4e9004afd6be1cef8a72468378&amp;v=4"/>
+    <author>
+      <name>shawnnapora</name>
+      <uri>https://github.com/shawnnapora</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix pr message to be optional&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/552417765d5566b258ffbad7505b6d45ad2dbe7d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/actions/stale/commit/552417765d5566b258ffbad7505b6d45ad2dbe7d"/>
+    <title>
+        Reflect updated workflow
+    </title>
+    <updated>2019-08-06T22:12:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/17864647?s=30&amp;u=a2b62812eaa0ec4e9004afd6be1cef8a72468378&amp;v=4"/>
+    <author>
+      <name>shawnnapora</name>
+      <uri>https://github.com/shawnnapora</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Reflect updated workflow&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

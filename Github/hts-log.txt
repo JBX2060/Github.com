@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 15 Mar 2020 11:07:05 at https://github.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC1%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://github.com/ -O1 "E:\Github\Github" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:12:39	Error: 	"Not Found" (404) at link https://github.com/signup_check/username?source=homepage&suggest_usernames=true (from https://github.com/)
+11:12:39	Error: 	"Not Found" (404) at link https://github.com/signup_check/email (from https://github.com/)
+11:13:01	Error: 	"Not Found" (404) at link https://github.com/signup_check/username (from https://github.com/)
+11:16:59	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/orgs/github/topics/most_used
+11:17:28	Error: 	"Not Found" (404) at link https://github.com/signup_check/username?suggest_usernames=true (from https://github.com/join?source=header-home)
+11:17:29	Warning: 	Found for https://github.com/features/package-registry/
+11:17:29	Warning: 	File has moved from https://github.com/features/package-registry/ to https://github.com/features/packages
+11:24:31	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/git-lfs/git-lfs/workflows/CI/badge.svg

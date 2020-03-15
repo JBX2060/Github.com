@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/atom/atom/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/atom/atom/commits/master.atom"/>
+  <title>Recent Commits to atom:master</title>
+  <updated>2020-03-11T15:56:14Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/97565c62312f5d533931068668fc934cb075aa64</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/97565c62312f5d533931068668fc934cb075aa64"/>
+    <title>
+        Merge pull request #20494 from atom/upgrade-windows-azuredevops-image…
+    </title>
+    <updated>2020-03-11T15:56:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #20494 from atom/upgrade-windows-azuredevops-image-version-take-2
+
+Bump Azure Devops Windows images to version vs2017-win2016&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/667c73a7131f65c420e02301d2a8892afc2195d7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/667c73a7131f65c420e02301d2a8892afc2195d7"/>
+    <title>
+        Upgrade to widows image to vs2017-win2016
+    </title>
+    <updated>2020-03-10T16:26:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Upgrade to widows image to vs2017-win2016&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/90993ee3d389e72f849520208eccb67fcf323154</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/90993ee3d389e72f849520208eccb67fcf323154"/>
+    <title>
+        1.47.0-dev
+    </title>
+    <updated>2020-03-06T17:06:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/480938?s=30&amp;v=4"/>
+    <author>
+      <name>hubot</name>
+      <uri>https://github.com/hubot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;1.47.0-dev&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9ecd39a8f32e787a9d5eb4f9844c4d184982b6f6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/9ecd39a8f32e787a9d5eb4f9844c4d184982b6f6"/>
+    <title>
+        Merge pull request #20469 from atom/fix-native-dependencies-fail-to-l…
+    </title>
+    <updated>2020-03-04T15:09:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #20469 from atom/fix-native-dependencies-fail-to-load-when-notarized
+
+Fix native dependencies fail to load when notarized&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6f47204bdbb77d61d37fa70e57cf29d108d464de</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/6f47204bdbb77d61d37fa70e57cf29d108d464de"/>
+    <title>
+        Merge pull request #20462 from dmoonfire/spell-check-0.76.0-fix
+    </title>
+    <updated>2020-03-04T13:17:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #20462 from dmoonfire/spell-check-0.76.0-fix
+
+Fix to get ⬆️ spell-check@0.76.0 #20400 to merge&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ffb31c4c64acd8fe53c52a22c21e931c4712ee91</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/ffb31c4c64acd8fe53c52a22c21e931c4712ee91"/>
+    <title>
+        Merge pull request #20456 from atom/upgrade-azure-macos-image-version
+    </title>
+    <updated>2020-03-04T12:53:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #20456 from atom/upgrade-azure-macos-image-version
+
+Bump Azure Devops Mac images to version 10.14&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4139da800836e90294534f29b841c6f0a9d12d8b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/4139da800836e90294534f29b841c6f0a9d12d8b"/>
+    <title>
+        remove unnecessary entitlements
+    </title>
+    <updated>2020-03-03T01:24:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;remove unnecessary entitlements&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fd3bce93c69dcb6bd3cb069a762719d80d279a83</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/fd3bce93c69dcb6bd3cb069a762719d80d279a83"/>
+    <title>
+        update entitlements
+    </title>
+    <updated>2020-03-03T01:18:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;update entitlements&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/df521099030ecef682a800b476ea1867e46597a1</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/df521099030ecef682a800b476ea1867e46597a1"/>
+    <title>
+        Updated dynamic linking for spell-check
+    </title>
+    <updated>2020-02-29T21:20:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/206815?s=30&amp;v=4"/>
+    <author>
+      <name>dmoonfire</name>
+      <uri>https://github.com/dmoonfire</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Updated dynamic linking for spell-check&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f987d00c49aa8a70f2d631db570bc0ccc275fb1e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/f987d00c49aa8a70f2d631db570bc0ccc275fb1e"/>
+    <title>
+        Merge pull request #20458 from atom/mac-os-notarization-take-two
+    </title>
+    <updated>2020-02-28T21:33:30Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #20458 from atom/mac-os-notarization-take-two
+
+Re-enable Macos Notarization and Fix Startup Issues&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/8247bc0e4ed61822835ce122d87bf8d85c269bc3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/8247bc0e4ed61822835ce122d87bf8d85c269bc3"/>
+    <title>
+        Bump images to version 10.14
+    </title>
+    <updated>2020-02-28T20:07:32Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump images to version 10.14&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4f231cf0a3cee32353a911fdb788a97972b99dec</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/4f231cf0a3cee32353a911fdb788a97972b99dec"/>
+    <title>
+        cleaning up
+    </title>
+    <updated>2020-02-28T04:15:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;cleaning up&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3540dae7c00f696973e2a061f0e0dcf59c8dd986</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/3540dae7c00f696973e2a061f0e0dcf59c8dd986"/>
+    <title>
+        re-enable notarization
+    </title>
+    <updated>2020-02-27T18:38:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;re-enable notarization&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3a022d6ec15d86216f783db1f880b2f93e6f14bf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/3a022d6ec15d86216f783db1f880b2f93e6f14bf"/>
+    <title>
+        fix lint
+    </title>
+    <updated>2020-02-27T18:06:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix lint&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f658e69285d4ca2842461923929dbf6ccfe363ce</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/f658e69285d4ca2842461923929dbf6ccfe363ce"/>
+    <title>
+        allow build to continue if notarization failed for testing pruposes only
+    </title>
+    <updated>2020-02-27T17:59:25Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;allow build to continue if notarization failed for testing pruposes only&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f7ab15b1cd02ccc7946bb1692dd14a7f8ec6dc58</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/f7ab15b1cd02ccc7946bb1692dd14a7f8ec6dc58"/>
+    <title>
+        Add child entitlements
+    </title>
+    <updated>2020-02-27T17:56:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add child entitlements&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/11b814d736b0a868aa107c49a26cadd71c2ef15d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/11b814d736b0a868aa107c49a26cadd71c2ef15d"/>
+    <title>
+        disable notarization to get an artifact
+    </title>
+    <updated>2020-02-27T16:48:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;disable notarization to get an artifact&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bc8b84b5e3eced45ce825587d5ca9a2d586ee3d7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/bc8b84b5e3eced45ce825587d5ca9a2d586ee3d7"/>
+    <title>
+        pass env variables to the notarize script
+    </title>
+    <updated>2020-02-26T20:41:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;pass env variables to the notarize script&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/08fbd4587a431864771f2a3e85f33cbb098fb11e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/08fbd4587a431864771f2a3e85f33cbb098fb11e"/>
+    <title>
+        correct notarize-on-mac helper path
+    </title>
+    <updated>2020-02-26T16:46:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;correct notarize-on-mac helper path&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/49eab7eb57d0a40b1c031485b1bc14e542999e94</id>
+    <link type="text/html" rel="alternate" href="https://github.com/atom/atom/commit/49eab7eb57d0a40b1c031485b1bc14e542999e94"/>
+    <title>
+        add notarization
+    </title>
+    <updated>2020-02-26T16:31:17Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/15927737?s=30&amp;v=4"/>
+    <author>
+      <name>lkashef</name>
+      <uri>https://github.com/lkashef</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;add notarization&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

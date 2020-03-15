@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/electron/electron/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/electron/electron/commits/master.atom"/>
+  <title>Recent Commits to electron:master</title>
+  <updated>2020-03-14T21:00:31Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/18c74a11f437853824d65826b8c9a9270c42c6e7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/18c74a11f437853824d65826b8c9a9270c42c6e7"/>
+    <title>
+        fix: when building with enable_pepper_flash = false (#22684)
+    </title>
+    <updated>2020-03-14T21:00:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1281234?s=30&amp;u=824cd53e2e62d979ace238cd692370888fa76625&amp;v=4"/>
+    <author>
+      <name>miniak</name>
+      <uri>https://github.com/miniak</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix: when building with enable_pepper_flash = false (#22684)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d8737734bff17bccbfc7291f948b705d4c490d74</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/d8737734bff17bccbfc7291f948b705d4c490d74"/>
+    <title>
+        chore: bump chromium to bc8f70ed4cfe2262ea833750eaddb (master) (#22649)
+    </title>
+    <updated>2020-03-14T20:54:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/18403005?s=30&amp;u=f58c8f5d7d14453f9693d1b3231c539dfde1eb8d&amp;v=4"/>
+    <author>
+      <name>electron-bot</name>
+      <uri>https://github.com/electron-bot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore: bump chromium to bc8f70ed4cfe2262ea833750eaddb (master) (#22649)
+
+* chore: bump chromium in DEPS to 9321f32fb1b3af8fdfce55c7bbfacf3f75118dca
+
+* Update patches
+
+* Update electron_swiftshader_binaries deps
+
+https://chromium-review.googlesource.com/c/chromium/src/+/2056931
+
+* Use Promise with RequestPointerLock calls
+
+https://chromium-review.googlesource.com/c/chromium/src/+/2069199
+
+* Replace content::CursorInfo with ui::Cursor
+
+https://chromium-review.googlesource.com/c/chromium/src/+/1999201
+
+* Convert MaterialDesignController to a true singleton.
+
+https://chromium-review.googlesource.com/c/chromium/src/+/2090877
+
+* Drop WebContentsView::RenderViewCreated hook
+
+https://chromium-review.googlesource.com/c/chromium/src/+/2093535
+
+* chore: bump chromium in DEPS to 6478123cfa0102ed754c70eb9bbdd391d676a4dd
+
+* Splitting context_menu_params.h into separate browser VS common parts.
+
+https://chromium-review.googlesource.com/c/chromium/src/+/2097468
+
+* Fix DCHECK on OnThemeChanged()
+
+https://chromium-review.googlesource.com/c/chromium/src/+/2090713
+
+* chore: bump chromium in DEPS to b0269bb003f699bc8ea7dcba8b0795ef963696d7
+
+* Remove no longer needed patch
+
+* Check PointerLock requests for new options and update accordingly
+
+https://chromium-review.googlesource.com/c/chromium/src/+/2071788
+
+* Address issues from review
+
+* Fixup compile error
+
+* Add additional library files
+
+* chore: bump chromium in DEPS to a41285fb8aebc8f70ed4cfe2262ea833750eaddb
+
+* Update patches
+
+Co-authored-by: John Kleinschmidt &amp;lt;jkleinsc@github.com&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a4c4c86b9dcd394855249b9c63314cbd00fe3682</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/a4c4c86b9dcd394855249b9c63314cbd00fe3682"/>
+    <title>
+        fix: crash on invalid zoomFactor (#22673)
+    </title>
+    <updated>2020-03-13T23:13:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2036040?s=30&amp;u=c413165f1b997a72cbe13beee9356ecc9bf3b444&amp;v=4"/>
+    <author>
+      <name>codebytere</name>
+      <uri>https://github.com/codebytere</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix: crash on invalid zoomFactor (#22673)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9c5874306d65ac5ce51575458508f286271cc26c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/9c5874306d65ac5ce51575458508f286271cc26c"/>
+    <title>
+        fix: crash when destroying WebContentsView during GC (#22674)
+    </title>
+    <updated>2020-03-13T17:33:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/172800?s=30&amp;v=4"/>
+    <author>
+      <name>nornagon</name>
+      <uri>https://github.com/nornagon</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix: crash when destroying WebContentsView during GC (#22674)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1b353d1ed3dee226400560404ced3ee78c5c3964</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/1b353d1ed3dee226400560404ced3ee78c5c3964"/>
+    <title>
+        chore: revert deprecated WebContents properties (#22640)
+    </title>
+    <updated>2020-03-13T17:16:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2036040?s=30&amp;u=c413165f1b997a72cbe13beee9356ecc9bf3b444&amp;v=4"/>
+    <author>
+      <name>codebytere</name>
+      <uri>https://github.com/codebytere</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore: revert deprecated WebContents properties (#22640)
+
+* chore: revert deprecated WebContents properties
+
+* Fix failing zoomFactor test&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0c02d794c926cfd808483c54737276def9b9f870</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/0c02d794c926cfd808483c54737276def9b9f870"/>
+    <title>
+        feat: add onclose method to MessagePort (#22532)
+    </title>
+    <updated>2020-03-13T17:00:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/172800?s=30&amp;v=4"/>
+    <author>
+      <name>nornagon</name>
+      <uri>https://github.com/nornagon</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;feat: add onclose method to MessagePort (#22532)
+
+* feat: add onclose method to MessagePort
+
+* more scope, more good
+
+* de-flake GC test&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/829d4815a9afb14cebfce5864abb6c176110138c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/829d4815a9afb14cebfce5864abb6c176110138c"/>
+    <title>
+        Bump v10.0.0-nightly.20200313
+    </title>
+    <updated>2020-03-13T15:31:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/18403005?s=30&amp;u=f58c8f5d7d14453f9693d1b3231c539dfde1eb8d&amp;v=4"/>
+    <author>
+      <name>electron-bot</name>
+      <uri>https://github.com/electron-bot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump v10.0.0-nightly.20200313&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c2327b15ae02cb838f314ce2a89c14c3c5219540</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/c2327b15ae02cb838f314ce2a89c14c3c5219540"/>
+    <title>
+        fix: add handle scope in dialog&#39;s promise callback (#22658)
+    </title>
+    <updated>2020-03-12T18:17:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/639601?s=30&amp;u=b726a177170e74aa10fc3061f27da82822fa29d3&amp;v=4"/>
+    <author>
+      <name>zcbenz</name>
+      <uri>https://github.com/zcbenz</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix: add handle scope in dialog&amp;#39;s promise callback (#22658)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4b9f2bc72599f99f0ac95bb8b3d63e1c2d146c72</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/4b9f2bc72599f99f0ac95bb8b3d63e1c2d146c72"/>
+    <title>
+        Bump v10.0.0-nightly.20200312
+    </title>
+    <updated>2020-03-12T15:31:44Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/18403005?s=30&amp;u=f58c8f5d7d14453f9693d1b3231c539dfde1eb8d&amp;v=4"/>
+    <author>
+      <name>electron-bot</name>
+      <uri>https://github.com/electron-bot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump v10.0.0-nightly.20200312&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b4d07f76d375627afa226231b976488271c84797</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/b4d07f76d375627afa226231b976488271c84797"/>
+    <title>
+        feat: MessagePorts in the main process (#22404)
+    </title>
+    <updated>2020-03-12T01:07:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/172800?s=30&amp;v=4"/>
+    <author>
+      <name>nornagon</name>
+      <uri>https://github.com/nornagon</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;feat: MessagePorts in the main process (#22404)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c4c088897249e5f1d1228c81c71a5e453ecfbb44</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/c4c088897249e5f1d1228c81c71a5e453ecfbb44"/>
+    <title>
+        docs: remove reference to electron-updater (#22641)
+    </title>
+    <updated>2020-03-11T23:30:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/11417?s=30&amp;v=4"/>
+    <author>
+      <name>malept</name>
+      <uri>https://github.com/malept</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;docs: remove reference to electron-updater (#22641)
+
+As per the [2020-03-05 Ecosystem WG
+meeting](https://github.com/electron/governance/blob/master/wg-ecosystem/meeting-notes/2020-03-05.md).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b724fbc0ed816828ece7bdcfb10583123c56e78c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/b724fbc0ed816828ece7bdcfb10583123c56e78c"/>
+    <title>
+        feat: add force option to app.focus() (#22612)
+    </title>
+    <updated>2020-03-11T16:07:01Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2036040?s=30&amp;u=c413165f1b997a72cbe13beee9356ecc9bf3b444&amp;v=4"/>
+    <author>
+      <name>codebytere</name>
+      <uri>https://github.com/codebytere</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;feat: add force option to app.focus() (#22612)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/75cef848770d93f46c450553f5e67b8fa9dfda80</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/75cef848770d93f46c450553f5e67b8fa9dfda80"/>
+    <title>
+        Bump v10.0.0-nightly.20200311
+    </title>
+    <updated>2020-03-11T15:33:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/18403005?s=30&amp;u=f58c8f5d7d14453f9693d1b3231c539dfde1eb8d&amp;v=4"/>
+    <author>
+      <name>electron-bot</name>
+      <uri>https://github.com/electron-bot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Bump v10.0.0-nightly.20200311&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/62da00e5c56832ea3bb673010749a76e62f8322c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/62da00e5c56832ea3bb673010749a76e62f8322c"/>
+    <title>
+        chore: bump chromium to 31b4a223e6e2bd9d5ce6c37cbdec6 (master) (#22514)
+    </title>
+    <updated>2020-03-11T11:15:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/18403005?s=30&amp;u=f58c8f5d7d14453f9693d1b3231c539dfde1eb8d&amp;v=4"/>
+    <author>
+      <name>electron-bot</name>
+      <uri>https://github.com/electron-bot</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore: bump chromium to 31b4a223e6e2bd9d5ce6c37cbdec6 (master) (#22514)
+
+* chore: bump chromium in DEPS to 7f366dc6e2f06228b12b021cc1486a1de81a257d
+
+* chore: bump chromium in DEPS to d785c1a601f5f33627d23e40b1ed9dd94c63d818
+
+* update patches
+
+* Rename an old referrer policy value
+
+https://chromium-review.googlesource.com/c/chromium/src/+/2082856
+
+* chore: bump chromium in DEPS to 735e0d2910b2e55c15e0b9cb9fca9431307ac661
+
+* update v8 patches
+
+* Update DEPS
+
+* update patches
+
+* chore: bump chromium in DEPS to b3d09c15c4460680b85218b7b0eb0849c5a6e840
+
+* Replace blink::WebCursorInfo with ui::Cursor
+
+https://chromium-review.googlesource.com/c/chromium/src/+/1997138
+
+* chore: bump chromium in DEPS to bf433ad6dcfcaac460512bb45a53d5a2ea5356f9
+
+* chore: bump chromium in DEPS to 38fad190ac908b6977ab271acc82c2fe74f6e85e
+
+* chore: bump chromium in DEPS to aa597178119cb37ab54caeda27b2ef30a2f9a003
+
+* update patches
+
+* DownloadURLParameters: Remove NetworkIsolationKey parameter.
+
+https://chromium-review.googlesource.com/c/chromium/src/+/2050987
+
+* fix pdf viewer tests by binding more mojo things
+
+* chore: bump chromium in DEPS to 08835601be331b4a223e6e2bd9d5ce6c37cbdec6
+
+Co-authored-by: Jeremy Apthorp &amp;lt;jeremya@chromium.org&amp;gt;
+Co-authored-by: Jeremy Apthorp &amp;lt;nornagon@nornagon.net&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7150fa783ed9b7dbec170c256e6e67f4b0d30ea4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/7150fa783ed9b7dbec170c256e6e67f4b0d30ea4"/>
+    <title>
+        fix(extensions): add more properties to port.sender.tab (#22592)
+    </title>
+    <updated>2020-03-11T07:04:31Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/11065386?s=30&amp;u=1ace82e20e3429937d8a891d3043bbf8497ebac1&amp;v=4"/>
+    <author>
+      <name>sentialx</name>
+      <uri>https://github.com/sentialx</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix(extensions): add more properties to port.sender.tab (#22592)
+
+* fix: add more properties to port.sender.tab
+
+* fix: apply the suggestion
+
+Co-Authored-By: Jeremy Apthorp &amp;lt;nornagon@nornagon.net&amp;gt;
+
+Co-authored-by: Jeremy Apthorp &amp;lt;nornagon@nornagon.net&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/34e004015d691840da2101537ab97be7947e8f1c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/34e004015d691840da2101537ab97be7947e8f1c"/>
+    <title>
+        feat: add API to check if session is persistent (#22622)
+    </title>
+    <updated>2020-03-11T07:02:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/16010076?s=30&amp;u=a6ad55f036b5bbb44b445614e739ee672b32a17e&amp;v=4"/>
+    <author>
+      <name>erickzhao</name>
+      <uri>https://github.com/erickzhao</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;feat: add API to check if session is persistent (#22622)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/19314d3cafc5ec1c4b1f1316b3f5d9744f8e9604</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/19314d3cafc5ec1c4b1f1316b3f5d9744f8e9604"/>
+    <title>
+        fix: remove catch-all HandleScope (#22531)
+    </title>
+    <updated>2020-03-11T01:16:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/172800?s=30&amp;v=4"/>
+    <author>
+      <name>nornagon</name>
+      <uri>https://github.com/nornagon</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix: remove catch-all HandleScope (#22531)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4bca5205bb74c43c169ede2200b9d16bb3ff366e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/4bca5205bb74c43c169ede2200b9d16bb3ff366e"/>
+    <title>
+        chore: ShowItemInFolder should use COMSTA (#22614)
+    </title>
+    <updated>2020-03-10T21:12:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2036040?s=30&amp;u=c413165f1b997a72cbe13beee9356ecc9bf3b444&amp;v=4"/>
+    <author>
+      <name>codebytere</name>
+      <uri>https://github.com/codebytere</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore: ShowItemInFolder should use COMSTA (#22614)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/97fe4c77185128f70aa5002da35bde22eefe7165</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/97fe4c77185128f70aa5002da35bde22eefe7165"/>
+    <title>
+        build: fix broken Views build (#22621)
+    </title>
+    <updated>2020-03-10T20:03:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2036040?s=30&amp;u=c413165f1b997a72cbe13beee9356ecc9bf3b444&amp;v=4"/>
+    <author>
+      <name>codebytere</name>
+      <uri>https://github.com/codebytere</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;build: fix broken Views build (#22621)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b607cfa220dbc952b657da3e1c8100eb16f8d69d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/electron/electron/commit/b607cfa220dbc952b657da3e1c8100eb16f8d69d"/>
+    <title>
+        test: test setPath for errors thrown (#22626)
+    </title>
+    <updated>2020-03-10T16:03:52Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/2036040?s=30&amp;u=c413165f1b997a72cbe13beee9356ecc9bf3b444&amp;v=4"/>
+    <author>
+      <name>codebytere</name>
+      <uri>https://github.com/codebytere</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;test: test setPath for errors thrown (#22626)&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

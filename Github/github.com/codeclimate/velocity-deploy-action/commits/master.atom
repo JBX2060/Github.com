@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/codeclimate/velocity-deploy-action/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/codeclimate/velocity-deploy-action/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/codeclimate/velocity-deploy-action/commits/master.atom"/>
+  <title>Recent Commits to velocity-deploy-action:master</title>
+  <updated>2019-08-07T16:53:53Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/035c3ee1ecf79c0687fd7f5ddc50dadf302b42fb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/codeclimate/velocity-deploy-action/commit/035c3ee1ecf79c0687fd7f5ddc50dadf302b42fb"/>
+    <title>
+        Add contributing guidelines
+    </title>
+    <updated>2019-08-07T16:53:53Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/1709578?s=30&amp;u=93485397b5133338caecb128d831db56c7b02919&amp;v=4"/>
+    <author>
+      <name>ale7714</name>
+      <uri>https://github.com/ale7714</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add contributing guidelines&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/dfd6889401de5ed4577b139f080ac2b81e4e81e4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/codeclimate/velocity-deploy-action/commit/dfd6889401de5ed4577b139f080ac2b81e4e81e4"/>
+    <title>
+        Update README.md (#10)
+    </title>
+    <updated>2019-08-05T17:48:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634280?s=30&amp;u=3da094423ba4eb41b1f4946e77427756a29d39b0&amp;v=4"/>
+    <author>
+      <name>nporteschaikin</name>
+      <uri>https://github.com/nporteschaikin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md (#10)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b7ea99664e1f41182a67b6cd978a72079cdff1a9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/codeclimate/velocity-deploy-action/commit/b7ea99664e1f41182a67b6cd978a72079cdff1a9"/>
+    <title>
+        Update README.md (#9)
+    </title>
+    <updated>2019-08-05T17:44:42Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634280?s=30&amp;u=3da094423ba4eb41b1f4946e77427756a29d39b0&amp;v=4"/>
+    <author>
+      <name>nporteschaikin</name>
+      <uri>https://github.com/nporteschaikin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md (#9)
+
+- Clarify copy
+- Add demo image&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/89e1325114b2300881731476293e84c02ac0d35e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/codeclimate/velocity-deploy-action/commit/89e1325114b2300881731476293e84c02ac0d35e"/>
+    <title>
+        Merge pull request #6 from codeclimate/wfleming-patch-1
+    </title>
+    <updated>2019-08-05T17:35:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634280?s=30&amp;u=3da094423ba4eb41b1f4946e77427756a29d39b0&amp;v=4"/>
+    <author>
+      <name>nporteschaikin</name>
+      <uri>https://github.com/nporteschaikin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #6 from codeclimate/wfleming-patch-1
+
+Fix license link&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1b4a22f0db113bf8d85c14fd726cf0ec6d17cd13</id>
+    <link type="text/html" rel="alternate" href="https://github.com/codeclimate/velocity-deploy-action/commit/1b4a22f0db113bf8d85c14fd726cf0ec6d17cd13"/>
+    <title>
+        Merge pull request #7 from codeclimate/npc/update-action-yml
+    </title>
+    <updated>2019-08-05T17:22:03Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634280?s=30&amp;u=3da094423ba4eb41b1f4946e77427756a29d39b0&amp;v=4"/>
+    <author>
+      <name>nporteschaikin</name>
+      <uri>https://github.com/nporteschaikin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #7 from codeclimate/npc/update-action-yml
+
+Update action.yml&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6225149dfdd14d51a0335d0a69e952ecb360e592</id>
+    <link type="text/html" rel="alternate" href="https://github.com/codeclimate/velocity-deploy-action/commit/6225149dfdd14d51a0335d0a69e952ecb360e592"/>
+    <title>
+        Update action.yml
+    </title>
+    <updated>2019-08-05T17:20:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634280?s=30&amp;u=3da094423ba4eb41b1f4946e77427756a29d39b0&amp;v=4"/>
+    <author>
+      <name>nporteschaikin</name>
+      <uri>https://github.com/nporteschaikin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update action.yml
+
+Add branding details.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e3fa425228fa42ba0e89c00ea84d0a1f0c6402ee</id>
+    <link type="text/html" rel="alternate" href="https://github.com/codeclimate/velocity-deploy-action/commit/e3fa425228fa42ba0e89c00ea84d0a1f0c6402ee"/>
+    <title>
+        Fix license link
+    </title>
+    <updated>2019-08-01T20:00:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/188402?s=30&amp;v=4"/>
+    <author>
+      <name>wfleming</name>
+      <uri>https://github.com/wfleming</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Fix license link
+
+The LICENSE file in this repo is not a .md file: it has no extension.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4e809fe9ed0809e85bef01b32bb34eeb248d9fa3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/codeclimate/velocity-deploy-action/commit/4e809fe9ed0809e85bef01b32bb34eeb248d9fa3"/>
+    <title>
+        Merge pull request #5 from codeclimate/npc/update-workflow
+    </title>
+    <updated>2019-08-01T19:07:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634280?s=30&amp;u=3da094423ba4eb41b1f4946e77427756a29d39b0&amp;v=4"/>
+    <author>
+      <name>nporteschaikin</name>
+      <uri>https://github.com/nporteschaikin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #5 from codeclimate/npc/update-workflow
+
+Prepare action&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/4295f13c72db7f5174573a65f557a93337646840</id>
+    <link type="text/html" rel="alternate" href="https://github.com/codeclimate/velocity-deploy-action/commit/4295f13c72db7f5174573a65f557a93337646840"/>
+    <title>
+        Prepare action
+    </title>
+    <updated>2019-08-01T19:05:49Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634280?s=30&amp;u=3da094423ba4eb41b1f4946e77427756a29d39b0&amp;v=4"/>
+    <author>
+      <name>nporteschaikin</name>
+      <uri>https://github.com/nporteschaikin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Prepare action
+
+- Check in dependencies
+- Update workflow for testing purposes
+- Bug fixes
+- Add LICENSE and README&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0cce4e44b9e33bde091546533b210d0a00b9ca08</id>
+    <link type="text/html" rel="alternate" href="https://github.com/codeclimate/velocity-deploy-action/commit/0cce4e44b9e33bde091546533b210d0a00b9ca08"/>
+    <title>
+        Merge pull request #2 from codeclimate/npc/workflow
+    </title>
+    <updated>2019-07-31T20:30:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634280?s=30&amp;u=3da094423ba4eb41b1f4946e77427756a29d39b0&amp;v=4"/>
+    <author>
+      <name>nporteschaikin</name>
+      <uri>https://github.com/nporteschaikin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #2 from codeclimate/npc/workflow
+
+Add workflow&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/248fd037e0bbc7430f3b75553e126f15d9b22da3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/codeclimate/velocity-deploy-action/commit/248fd037e0bbc7430f3b75553e126f15d9b22da3"/>
+    <title>
+        Merge pull request #4 from codeclimate/npc/fixes
+    </title>
+    <updated>2019-07-29T18:52:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634280?s=30&amp;u=3da094423ba4eb41b1f4946e77427756a29d39b0&amp;v=4"/>
+    <author>
+      <name>nporteschaikin</name>
+      <uri>https://github.com/nporteschaikin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #4 from codeclimate/npc/fixes
+
+Add two fixes&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/542aa57203e4dd36557160a81c037f2569bb8b8c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/codeclimate/velocity-deploy-action/commit/542aa57203e4dd36557160a81c037f2569bb8b8c"/>
+    <title>
+        Add a few fixes
+    </title>
+    <updated>2019-07-29T18:51:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634280?s=30&amp;u=3da094423ba4eb41b1f4946e77427756a29d39b0&amp;v=4"/>
+    <author>
+      <name>nporteschaikin</name>
+      <uri>https://github.com/nporteschaikin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add a few fixes
+
+- Split out build `npm` scripts
+- Pass correct repository URL&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/185e2a24de992f70e72bf1ddbaac89e0a11542b4</id>
+    <link type="text/html" rel="alternate" href="https://github.com/codeclimate/velocity-deploy-action/commit/185e2a24de992f70e72bf1ddbaac89e0a11542b4"/>
+    <title>
+        Merge pull request #3 from codeclimate/npc/first-cut
+    </title>
+    <updated>2019-07-29T18:46:35Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634280?s=30&amp;u=3da094423ba4eb41b1f4946e77427756a29d39b0&amp;v=4"/>
+    <author>
+      <name>nporteschaikin</name>
+      <uri>https://github.com/nporteschaikin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #3 from codeclimate/npc/first-cut
+
+Finish first cut of action&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/83c6a3f13c123eee758eb71b0d0938356a0b7989</id>
+    <link type="text/html" rel="alternate" href="https://github.com/codeclimate/velocity-deploy-action/commit/83c6a3f13c123eee758eb71b0d0938356a0b7989"/>
+    <title>
+        Finish first cut of action
+    </title>
+    <updated>2019-07-29T18:46:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634280?s=30&amp;u=3da094423ba4eb41b1f4946e77427756a29d39b0&amp;v=4"/>
+    <author>
+      <name>nporteschaikin</name>
+      <uri>https://github.com/nporteschaikin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Finish first cut of action&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/275c9083d70d71fef0b883c4db9ad03531415f48</id>
+    <link type="text/html" rel="alternate" href="https://github.com/codeclimate/velocity-deploy-action/commit/275c9083d70d71fef0b883c4db9ad03531415f48"/>
+    <title>
+        Add workflow
+    </title>
+    <updated>2019-07-29T18:01:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634280?s=30&amp;u=3da094423ba4eb41b1f4946e77427756a29d39b0&amp;v=4"/>
+    <author>
+      <name>nporteschaikin</name>
+      <uri>https://github.com/nporteschaikin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add workflow&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c08ff57527372bb00a15164d4ced48108e4b6cdd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/codeclimate/velocity-deploy-action/commit/c08ff57527372bb00a15164d4ced48108e4b6cdd"/>
+    <title>
+        Initial commit
+    </title>
+    <updated>2019-07-25T20:26:05Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1634280?s=30&amp;u=3da094423ba4eb41b1f4946e77427756a29d39b0&amp;v=4"/>
+    <author>
+      <name>nporteschaikin</name>
+      <uri>https://github.com/nporteschaikin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Initial commit&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

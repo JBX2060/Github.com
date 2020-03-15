@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/Axosoft/glo-actions/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/Axosoft/glo-actions/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/Axosoft/glo-actions/commits/master.atom"/>
+  <title>Recent Commits to glo-actions:master</title>
+  <updated>2019-10-14T17:04:15Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bf8dffc789663e7bc7934cda2d86c88a1c152be3</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Axosoft/glo-actions/commit/bf8dffc789663e7bc7934cda2d86c88a1c152be3"/>
+    <title>
+        Merge pull request #1 from chuckdries/create-card-link
+    </title>
+    <updated>2019-10-14T17:04:15Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1987188?s=30&amp;v=4"/>
+    <author>
+      <name>schinizel</name>
+      <uri>https://github.com/schinizel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #1 from chuckdries/create-card-link
+
+Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d82f38f83af580dc6f8a70c967613f8e6d22afef</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Axosoft/glo-actions/commit/d82f38f83af580dc6f8a70c967613f8e6d22afef"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2019-10-14T17:02:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/1351436?s=30&amp;u=3431c82c5c69cd379a2a20ec41510ddeea2889f3&amp;v=4"/>
+    <author>
+      <name>chuckdries</name>
+      <uri>https://github.com/chuckdries</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2e476df02a537ad3433b52347e1316b08ad430f7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Axosoft/glo-actions/commit/2e476df02a537ad3433b52347e1316b08ad430f7"/>
+    <title>
+        Add Create Card action
+    </title>
+    <updated>2019-08-07T23:48:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1987188?s=30&amp;v=4"/>
+    <author>
+      <name>schinizel</name>
+      <uri>https://github.com/schinizel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add Create Card action&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/bdea652528d5feb08281dde43c2055a0b1e74db8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Axosoft/glo-actions/commit/bdea652528d5feb08281dde43c2055a0b1e74db8"/>
+    <title>
+        Add example code snippet for workflow
+    </title>
+    <updated>2019-08-07T23:28:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1987188?s=30&amp;v=4"/>
+    <author>
+      <name>schinizel</name>
+      <uri>https://github.com/schinizel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Add example code snippet for workflow&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f8921a3450c8c919e7d60f3ae53e79a1ee24acb9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Axosoft/glo-actions/commit/f8921a3450c8c919e7d60f3ae53e79a1ee24acb9"/>
+    <title>
+        Update readme with initial draft content
+    </title>
+    <updated>2019-08-07T23:00:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1987188?s=30&amp;v=4"/>
+    <author>
+      <name>schinizel</name>
+      <uri>https://github.com/schinizel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update readme with initial draft content&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1215292d28cb4a5f8d2f4a24f7f7c350f74f2be9</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Axosoft/glo-actions/commit/1215292d28cb4a5f8d2f4a24f7f7c350f74f2be9"/>
+    <title>
+        Initial commit
+    </title>
+    <updated>2019-08-07T19:37:04Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/1987188?s=30&amp;v=4"/>
+    <author>
+      <name>schinizel</name>
+      <uri>https://github.com/schinizel</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Initial commit&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

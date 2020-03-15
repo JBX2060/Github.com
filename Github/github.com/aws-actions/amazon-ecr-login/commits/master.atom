@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/aws-actions/amazon-ecr-login/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/aws-actions/amazon-ecr-login/commits/master.atom"/>
+  <title>Recent Commits to amazon-ecr-login:master</title>
+  <updated>2020-03-13T21:54:46Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c5efb1f37b676971db734690dc9e4305b2f2cb1c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/c5efb1f37b676971db734690dc9e4305b2f2cb1c"/>
+    <title>
+        Merge pull request #32 from aws-actions/dependabot/npm_and_yarn/acorn…
+    </title>
+    <updated>2020-03-13T21:54:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/in/2141?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot-preview</name>
+      <uri>https://github.com/dependabot-preview</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #32 from aws-actions/dependabot/npm_and_yarn/acorn-6.4.1&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c5bce77d91495bbd2cb4ca8f79546098faa2c77b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/c5bce77d91495bbd2cb4ca8f79546098faa2c77b"/>
+    <title>
+        chore: [Security] Bump acorn from 6.4.0 to 6.4.1
+    </title>
+    <updated>2020-03-13T21:53:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/in/2141?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot-preview</name>
+      <uri>https://github.com/dependabot-preview</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore: [Security] Bump acorn from 6.4.0 to 6.4.1
+
+Bumps [acorn](https://github.com/acornjs/acorn) from 6.4.0 to 6.4.1. **This update includes a security fix.**
+- [Release notes](https://github.com/acornjs/acorn/releases)
+- [Commits](https://github.com/acornjs/acorn/compare/6.4.0...6.4.1)
+
+Signed-off-by: dependabot-preview[bot] &amp;lt;support@dependabot.com&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f5826d3c72a3012128caff7e00005acd30c9cf4b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/f5826d3c72a3012128caff7e00005acd30c9cf4b"/>
+    <title>
+        chore(release): 1.0.4
+    </title>
+    <updated>2020-03-05T18:40:27Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/00d5c8fa24ca00b3f40fbc2857b08812?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>ecs-devx-notifications@amazon.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore(release): 1.0.4&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d2f3419069a079c8c6995b618ebd02a67c0cb086</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/d2f3419069a079c8c6995b618ebd02a67c0cb086"/>
+    <title>
+        chore: Update dist
+    </title>
+    <updated>2020-03-05T07:09:45Z</updated>
+    <media:thumbnail height="30" width="30" url="https://0.gravatar.com/avatar/2cc0194a9f44ff67b0f5f9c9a3ba284e?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>runner@fv-az50.q3wrhj1plbgefo1eijxockp55f.cx.internal.cloudapp.net</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore: Update dist&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2e339eb5edaf1033d9058ac6a9b7f4133b763c19</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/2e339eb5edaf1033d9058ac6a9b7f4133b763c19"/>
+    <title>
+        Merge pull request #31 from aws-actions/dependabot/npm_and_yarn/actio…
+    </title>
+    <updated>2020-03-05T07:09:11Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/in/2141?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot-preview</name>
+      <uri>https://github.com/dependabot-preview</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #31 from aws-actions/dependabot/npm_and_yarn/actions/core-1.2.3&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/f94d871c5754bddcefe466e314652bfba153ee7e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/f94d871c5754bddcefe466e314652bfba153ee7e"/>
+    <title>
+        chore: Bump @actions/core from 1.2.2 to 1.2.3
+    </title>
+    <updated>2020-03-05T07:08:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/in/2141?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot-preview</name>
+      <uri>https://github.com/dependabot-preview</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore: Bump @actions/core from 1.2.2 to 1.2.3
+
+Bumps [@actions/core](https://github.com/actions/toolkit/tree/HEAD/packages/core) from 1.2.2 to 1.2.3.
+- [Release notes](https://github.com/actions/toolkit/releases)
+- [Changelog](https://github.com/actions/toolkit/blob/master/packages/core/RELEASES.md)
+- [Commits](https://github.com/actions/toolkit/commits/HEAD/packages/core)
+
+Signed-off-by: dependabot-preview[bot] &amp;lt;support@dependabot.com&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/19500e17bbcc5551cf35da0bc630769650cd259e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/19500e17bbcc5551cf35da0bc630769650cd259e"/>
+    <title>
+        chore: Update dist
+    </title>
+    <updated>2020-03-05T07:07:10Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/fe3d794b79d48746cd88b380e39cddec?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>runner@fv-az33.d0txvvttqrqebdoowqe5usjhjd.cx.internal.cloudapp.net</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore: Update dist&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cbf22fff35706e974cc9ed4d9bf43f6ea63c4867</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/cbf22fff35706e974cc9ed4d9bf43f6ea63c4867"/>
+    <title>
+        Merge pull request #30 from aws-actions/dependabot/npm_and_yarn/aws-s…
+    </title>
+    <updated>2020-03-05T07:06:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/in/2141?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot-preview</name>
+      <uri>https://github.com/dependabot-preview</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #30 from aws-actions/dependabot/npm_and_yarn/aws-sdk-2.633.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c7e76871751b2548624c10c47912649f9c295769</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/c7e76871751b2548624c10c47912649f9c295769"/>
+    <title>
+        chore: Bump aws-sdk from 2.630.0 to 2.633.0
+    </title>
+    <updated>2020-03-05T07:05:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/in/2141?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot-preview</name>
+      <uri>https://github.com/dependabot-preview</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore: Bump aws-sdk from 2.630.0 to 2.633.0
+
+Bumps [aws-sdk](https://github.com/aws/aws-sdk-js) from 2.630.0 to 2.633.0.
+- [Release notes](https://github.com/aws/aws-sdk-js/releases)
+- [Changelog](https://github.com/aws/aws-sdk-js/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/aws/aws-sdk-js/compare/v2.630.0...v2.633.0)
+
+Signed-off-by: dependabot-preview[bot] &amp;lt;support@dependabot.com&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3b36ba61776e6b4dfacb29667dd89f987de9c725</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/3b36ba61776e6b4dfacb29667dd89f987de9c725"/>
+    <title>
+        chore: Update dist
+    </title>
+    <updated>2020-03-05T07:04:12Z</updated>
+    <media:thumbnail height="30" width="30" url="https://2.gravatar.com/avatar/bc6b6f9e2a505920e2c4bce8a1d76c66?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>runner@fv-az76.5piavotwd5gubiqmbkhyf0koxf.cx.internal.cloudapp.net</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore: Update dist&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/0551b7072569b21ecd3842272aed0900e92a59cb</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/0551b7072569b21ecd3842272aed0900e92a59cb"/>
+    <title>
+        Merge pull request #29 from aws-actions/dependabot/npm_and_yarn/zeit/…
+    </title>
+    <updated>2020-03-05T07:03:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/in/2141?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot-preview</name>
+      <uri>https://github.com/dependabot-preview</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #29 from aws-actions/dependabot/npm_and_yarn/zeit/ncc-0.21.1&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d05086c69898973ec1e1d06f0824e655a1bcb172</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/d05086c69898973ec1e1d06f0824e655a1bcb172"/>
+    <title>
+        chore: Bump @zeit/ncc from 0.21.0 to 0.21.1
+    </title>
+    <updated>2020-03-05T06:40:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/in/2141?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot-preview</name>
+      <uri>https://github.com/dependabot-preview</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore: Bump @zeit/ncc from 0.21.0 to 0.21.1
+
+Bumps [@zeit/ncc](https://github.com/zeit/ncc) from 0.21.0 to 0.21.1.
+- [Release notes](https://github.com/zeit/ncc/releases)
+- [Commits](https://github.com/zeit/ncc/compare/0.21.0...0.21.1)
+
+Signed-off-by: dependabot-preview[bot] &amp;lt;support@dependabot.com&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6a54d441afbe38bc091bb32c861afb67a60f2d61</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/6a54d441afbe38bc091bb32c861afb67a60f2d61"/>
+    <title>
+        Merge pull request #28 from aws-actions/dependabot/npm_and_yarn/aws-s…
+    </title>
+    <updated>2020-03-05T06:38:58Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/in/2141?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot-preview</name>
+      <uri>https://github.com/dependabot-preview</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #28 from aws-actions/dependabot/npm_and_yarn/aws-sdk-2.630.0&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/cd0077f3bb472170b31e3597fa6b9661f229bb0c</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/cd0077f3bb472170b31e3597fa6b9661f229bb0c"/>
+    <title>
+        chore: add automatic merging rules
+    </title>
+    <updated>2020-03-05T06:37:57Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/484245?s=30&amp;u=9c027f4834737c3c8b121f880d5d0e144f6914db&amp;v=4"/>
+    <author>
+      <name>clareliguori</name>
+      <uri>https://github.com/clareliguori</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore: add automatic merging rules&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d6935e552e4d84cda300f24e9588ba6f3e465e65</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/d6935e552e4d84cda300f24e9588ba6f3e465e65"/>
+    <title>
+        chore: Update dist
+    </title>
+    <updated>2020-03-01T23:58:47Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/7d1c5681536d6c8016b779ffa5f11903?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>runner@fv-az50.r3va0h0rq2mubg2wmkwxfrhhgf.cx.internal.cloudapp.net</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore: Update dist&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/127dcbdc25a788bc50ed461ba2d597287ec9ae1f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/127dcbdc25a788bc50ed461ba2d597287ec9ae1f"/>
+    <title>
+        fix: Add debugging for registry ID input
+    </title>
+    <updated>2020-03-01T23:55:55Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/484245?s=30&amp;u=9c027f4834737c3c8b121f880d5d0e144f6914db&amp;v=4"/>
+    <author>
+      <name>clareliguori</name>
+      <uri>https://github.com/clareliguori</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix: Add debugging for registry ID input&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7f9b74363cf4a44b4f8bcff0d0af40b65197cee8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/7f9b74363cf4a44b4f8bcff0d0af40b65197cee8"/>
+    <title>
+        chore: Bump aws-sdk from 2.613.0 to 2.630.0
+    </title>
+    <updated>2020-03-01T05:44:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/in/2141?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot-preview</name>
+      <uri>https://github.com/dependabot-preview</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore: Bump aws-sdk from 2.613.0 to 2.630.0
+
+Bumps [aws-sdk](https://github.com/aws/aws-sdk-js) from 2.613.0 to 2.630.0.
+- [Release notes](https://github.com/aws/aws-sdk-js/releases)
+- [Changelog](https://github.com/aws/aws-sdk-js/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/aws/aws-sdk-js/compare/v2.613.0...v2.630.0)
+
+Signed-off-by: dependabot-preview[bot] &amp;lt;support@dependabot.com&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6adba700642e5979b6b98bb823e84a03c91279d0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/6adba700642e5979b6b98bb823e84a03c91279d0"/>
+    <title>
+        chore(release): 1.0.3
+    </title>
+    <updated>2020-02-07T17:25:16Z</updated>
+    <media:thumbnail height="30" width="30" url="https://1.gravatar.com/avatar/00d5c8fa24ca00b3f40fbc2857b08812?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>ecs-devx-notifications@amazon.com</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore(release): 1.0.3&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/029a6c68bad073a1fa4b149285ae76e51e5ad46f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/029a6c68bad073a1fa4b149285ae76e51e5ad46f"/>
+    <title>
+        chore: Update dist
+    </title>
+    <updated>2020-02-06T21:05:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://2.gravatar.com/avatar/bc97d9e246e9ec481ace847edeab9077?d=https%3A%2F%2Fgithub.githubassets.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png&amp;r=g&amp;s=30"/>
+    <author>
+      <name></name>
+      <email>runner@fv-az33.nqaxd4m442oejahr5ihfnsybsg.cx.internal.cloudapp.net</email>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore: Update dist&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/274c93e2859ce6c86258f809ff9972069bf8dc41</id>
+    <link type="text/html" rel="alternate" href="https://github.com/aws-actions/amazon-ecr-login/commit/274c93e2859ce6c86258f809ff9972069bf8dc41"/>
+    <title>
+        chore: Bump aws-sdk from 2.610.0 to 2.613.0
+    </title>
+    <updated>2020-02-06T21:04:26Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/in/2141?s=30&amp;v=4"/>
+    <author>
+      <name>dependabot-preview</name>
+      <uri>https://github.com/dependabot-preview</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;chore: Bump aws-sdk from 2.610.0 to 2.613.0
+
+Bumps [aws-sdk](https://github.com/aws/aws-sdk-js) from 2.610.0 to 2.613.0.
+- [Release notes](https://github.com/aws/aws-sdk-js/releases)
+- [Changelog](https://github.com/aws/aws-sdk-js/blob/master/CHANGELOG.md)
+- [Commits](https://github.com/aws/aws-sdk-js/compare/v2.610.0...v2.613.0)
+
+Signed-off-by: dependabot-preview[bot] &amp;lt;support@dependabot.com&amp;gt;&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

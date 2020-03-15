@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/Azure/k8s-actions/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/Azure/k8s-actions/commits/master.atom"/>
+  <title>Recent Commits to k8s-actions:master</title>
+  <updated>2019-12-04T10:54:40Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7a93ceb73dcebce42afdbb13e5eca8548143a281</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/7a93ceb73dcebce42afdbb13e5eca8548143a281"/>
+    <title>
+        Update action.yml with deprecation message (#34)
+    </title>
+    <updated>2019-12-04T10:54:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25389593?s=30&amp;v=4"/>
+    <author>
+      <name>N-Usha</name>
+      <uri>https://github.com/N-Usha</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update action.yml with deprecation message (#34)
+
+* Update action.yml
+
+* Update action.yml
+
+* Update action.yml
+
+* Update action.yml
+
+* Update action.yml
+
+* Update action.yml
+
+* Update action.yml&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3950f1ca13217d2b28c046efce8ed91cab1a34f7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/3950f1ca13217d2b28c046efce8ed91cab1a34f7"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2019-11-01T09:46:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25389593?s=30&amp;v=4"/>
+    <author>
+      <name>N-Usha</name>
+      <uri>https://github.com/N-Usha</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/40b282850a9442dc5ea96b080e2b8375a10eff0b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/40b282850a9442dc5ea96b080e2b8375a10eff0b"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2019-11-01T07:02:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25389593?s=30&amp;v=4"/>
+    <author>
+      <name>N-Usha</name>
+      <uri>https://github.com/N-Usha</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/3182a859f9d9b0a2cc75a07adf5c2a718463e3a5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/3182a859f9d9b0a2cc75a07adf5c2a718463e3a5"/>
+    <title>
+        Updated README.md with Deprecation message
+    </title>
+    <updated>2019-11-01T07:01:23Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/25389593?s=30&amp;v=4"/>
+    <author>
+      <name>N-Usha</name>
+      <uri>https://github.com/N-Usha</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Updated README.md with Deprecation message&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/37677d1d7cf68e60147a1a50d728676ae4e8bae7</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/37677d1d7cf68e60147a1a50d728676ae4e8bae7"/>
+    <title>
+        Provide sample service principal json (#32)
+    </title>
+    <updated>2019-10-14T10:56:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/4709852?s=30&amp;u=71526bc6945ebb4aff5425e399d95b4b44e1d31f&amp;v=4"/>
+    <author>
+      <name>pdebruin</name>
+      <uri>https://github.com/pdebruin</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Provide sample service principal json (#32)
+
+Update the usage instructions to provide a sample json fragment for service principal to be used in GitHub secrets&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/62c33dee047006f34695304bb812c16ab77f849b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/62c33dee047006f34695304bb812c16ab77f849b"/>
+    <title>
+        fixes #28
+    </title>
+    <updated>2019-09-10T14:43:48Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/25762922?s=30&amp;u=0791f96e96572623ca8ef1519952aedc3a3e2963&amp;v=4"/>
+    <author>
+      <name>ds-ms</name>
+      <uri>https://github.com/ds-ms</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fixes #28&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/384ec7231de31e79ad703a947450b11e932f146e</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/384ec7231de31e79ad703a947450b11e932f146e"/>
+    <title>
+        fixes #27
+    </title>
+    <updated>2019-09-10T14:42:59Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/25762922?s=30&amp;u=0791f96e96572623ca8ef1519952aedc3a3e2963&amp;v=4"/>
+    <author>
+      <name>ds-ms</name>
+      <uri>https://github.com/ds-ms</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fixes #27&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9c574cdf063f30678cf1bae1e606fdf3aa3a9bf5</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/9c574cdf063f30678cf1bae1e606fdf3aa3a9bf5"/>
+    <title>
+        Update staleissues.yml
+    </title>
+    <updated>2019-08-26T08:35:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/25762922?s=30&amp;u=0791f96e96572623ca8ef1519952aedc3a3e2963&amp;v=4"/>
+    <author>
+      <name>ds-ms</name>
+      <uri>https://github.com/ds-ms</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update staleissues.yml&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1b6766e3a380e2f34861df8780f675c69b83b98f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/1b6766e3a380e2f34861df8780f675c69b83b98f"/>
+    <title>
+        Cron job for detecting stale issues (#25)
+    </title>
+    <updated>2019-08-26T08:29:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/25762922?s=30&amp;u=0791f96e96572623ca8ef1519952aedc3a3e2963&amp;v=4"/>
+    <author>
+      <name>ds-ms</name>
+      <uri>https://github.com/ds-ms</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Cron job for detecting stale issues (#25)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7f0f4094e39ba70ebb89da4ec16f6640c5a30c5f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/7f0f4094e39ba70ebb89da4ec16f6640c5a30c5f"/>
+    <title>
+        Rename OWNERS to CODEOWNERS
+    </title>
+    <updated>2019-08-26T05:46:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/25762922?s=30&amp;u=0791f96e96572623ca8ef1519952aedc3a3e2963&amp;v=4"/>
+    <author>
+      <name>ds-ms</name>
+      <uri>https://github.com/ds-ms</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Rename OWNERS to CODEOWNERS&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/79eb1b2b42523a0791591e6b5208391eb37fb0ac</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/79eb1b2b42523a0791591e6b5208391eb37fb0ac"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2019-08-26T05:44:33Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/25762922?s=30&amp;u=0791f96e96572623ca8ef1519952aedc3a3e2963&amp;v=4"/>
+    <author>
+      <name>ds-ms</name>
+      <uri>https://github.com/ds-ms</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d7266e92997e106e7c37f8f24286f02a24025079</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/d7266e92997e106e7c37f8f24286f02a24025079"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2019-08-26T05:44:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/25762922?s=30&amp;u=0791f96e96572623ca8ef1519952aedc3a3e2963&amp;v=4"/>
+    <author>
+      <name>ds-ms</name>
+      <uri>https://github.com/ds-ms</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/6454b1fa16fc841513f59caabc4f793c99c76359</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/6454b1fa16fc841513f59caabc4f793c99c76359"/>
+    <title>
+        Create OWNERS (#22)
+    </title>
+    <updated>2019-08-26T05:42:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/25762922?s=30&amp;u=0791f96e96572623ca8ef1519952aedc3a3e2963&amp;v=4"/>
+    <author>
+      <name>ds-ms</name>
+      <uri>https://github.com/ds-ms</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Create OWNERS (#22)
+
+* Create OWNERS
+
+* Update OWNERS&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fa3bc8c871c28bc3cda437fe6f503850439a4370</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/fa3bc8c871c28bc3cda437fe6f503850439a4370"/>
+    <title>
+        Adding deprecation warning (#21)
+    </title>
+    <updated>2019-08-14T07:17:50Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/25762922?s=30&amp;u=0791f96e96572623ca8ef1519952aedc3a3e2963&amp;v=4"/>
+    <author>
+      <name>ds-ms</name>
+      <uri>https://github.com/ds-ms</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Adding deprecation warning (#21)&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c571277ba9432d91d1e2888cc49ec3361e89a7cf</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/c571277ba9432d91d1e2888cc49ec3361e89a7cf"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2019-08-14T05:56:18Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6857119?s=30&amp;u=a936d9ff1b734934e1db915ca767a1d5a11763eb&amp;v=4"/>
+    <author>
+      <name>azooinmyluggage</name>
+      <uri>https://github.com/azooinmyluggage</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fc96d7dbe661d4ab3345d5139f5faae73ed50aa8</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/fc96d7dbe661d4ab3345d5139f5faae73ed50aa8"/>
+    <title>
+        Update README.md
+    </title>
+    <updated>2019-08-14T05:45:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6857119?s=30&amp;u=a936d9ff1b734934e1db915ca767a1d5a11763eb&amp;v=4"/>
+    <author>
+      <name>azooinmyluggage</name>
+      <uri>https://github.com/azooinmyluggage</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update README.md&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/039a6da2c07d6f88ff401514d1e4c627b940ed54</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/039a6da2c07d6f88ff401514d1e4c627b940ed54"/>
+    <title>
+        Update action.yml
+    </title>
+    <updated>2019-08-14T05:35:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars3.githubusercontent.com/u/25762922?s=30&amp;u=0791f96e96572623ca8ef1519952aedc3a3e2963&amp;v=4"/>
+    <author>
+      <name>ds-ms</name>
+      <uri>https://github.com/ds-ms</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Update action.yml&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/83fb61f7fdde7c72f63c1c4112b38bd91907f1b6</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/83fb61f7fdde7c72f63c1c4112b38bd91907f1b6"/>
+    <title>
+        Added a clarification
+    </title>
+    <updated>2019-08-12T13:15:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6857119?s=30&amp;u=a936d9ff1b734934e1db915ca767a1d5a11763eb&amp;v=4"/>
+    <author>
+      <name>azooinmyluggage</name>
+      <uri>https://github.com/azooinmyluggage</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added a clarification&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/98b8568f69fa29a2da5a533892ec403be306d54b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/98b8568f69fa29a2da5a533892ec403be306d54b"/>
+    <title>
+        Added Azure action listing
+    </title>
+    <updated>2019-08-12T13:14:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6857119?s=30&amp;u=a936d9ff1b734934e1db915ca767a1d5a11763eb&amp;v=4"/>
+    <author>
+      <name>azooinmyluggage</name>
+      <uri>https://github.com/azooinmyluggage</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Added Azure action listing&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/2630156cfee128581b9b4b6938ea29f781d1e67b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/Azure/k8s-actions/commit/2630156cfee128581b9b4b6938ea29f781d1e67b"/>
+    <title>
+        Moved Docker Actions
+    </title>
+    <updated>2019-08-12T13:00:22Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/6857119?s=30&amp;u=a936d9ff1b734934e1db915ca767a1d5a11763eb&amp;v=4"/>
+    <author>
+      <name>azooinmyluggage</name>
+      <uri>https://github.com/azooinmyluggage</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Moved Docker Actions
+
+ Moved Docker Actions to container-actions&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>

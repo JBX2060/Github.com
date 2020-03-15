@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="en-US">
+  <id>tag:github.com,2008:/git-lfs/git-lfs/commits/master</id>
+  <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commits/master"/>
+  <link type="application/atom+xml" rel="self" href="https://github.com/git-lfs/git-lfs/commits/master.atom"/>
+  <title>Recent Commits to git-lfs:master</title>
+  <updated>2020-03-10T18:59:08Z</updated>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b6606f8510910472f8aa425bbac0420f288f9dc0</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/b6606f8510910472f8aa425bbac0420f288f9dc0"/>
+    <title>
+        Merge pull request #4059 from bk2204/useful-help
+    </title>
+    <updated>2020-03-10T18:59:08Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/497054?s=30&amp;u=0ccd1b972aab15ce396ef8358919f97cd0cf8a13&amp;v=4"/>
+    <author>
+      <name>bk2204</name>
+      <uri>https://github.com/bk2204</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #4059 from bk2204/useful-help
+
+commands: print help output with --help&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/590881e54cdb8d59657b546f46e89c1b290198aa</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/590881e54cdb8d59657b546f46e89c1b290198aa"/>
+    <title>
+        commands: support git lfs help config invocation
+    </title>
+    <updated>2020-03-10T14:03:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/28857117?s=30&amp;u=4a3f667e3d4f6236b90dabda8718efe655005ad3&amp;v=4"/>
+    <author>
+      <name>chrisd8088</name>
+      <uri>https://github.com/chrisd8088</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;commands: support git lfs help config invocation
+
+Because &amp;quot;config&amp;quot; is not a command, Cobra returns an error when
+the user invokes &amp;quot;git lfs help config&amp;quot; on the command line,
+so we just print an error message and the generic usage
+instead of returning the same content as one gets from
+&amp;quot;man git-lfs-config&amp;quot; for git-lfs-config(5).
+
+This differs from Git&amp;#39;s own support for running, for instance,
+&amp;quot;git help gitrepository-layout&amp;quot; for gitrepository-layout(5)
+or &amp;quot;git help githooks&amp;quot; for githooks(5).
+
+Therefore we specifically check if the supplied argument
+to the &amp;quot;help&amp;quot; command is &amp;quot;config&amp;quot; and in that case look up
+a dummy argument so we can proceed.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/a9543e7c89c24702d3f991fe749d9000e550d6ae</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/a9543e7c89c24702d3f991fe749d9000e550d6ae"/>
+    <title>
+        commands: print help output with --help
+    </title>
+    <updated>2020-03-10T14:03:40Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/497054?s=30&amp;u=0ccd1b972aab15ce396ef8358919f97cd0cf8a13&amp;v=4"/>
+    <author>
+      <name>bk2204</name>
+      <uri>https://github.com/bk2204</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;commands: print help output with --help
+
+If the user invokes &amp;quot;git-lfs --help&amp;quot;, we tell them that there&amp;#39;s no usage
+text found for &amp;quot;--help&amp;quot;.  This isn&amp;#39;t very helpful.  Since what the user
+probably wanted was to invoke the general help output, let&amp;#39;s do that by
+rewriting the command to &amp;quot;git-lfs&amp;quot;, which is the topic for the general
+help output.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/e9b5ff0740ebdfbd88f4fd5144c33cdc9d17c96f</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/e9b5ff0740ebdfbd88f4fd5144c33cdc9d17c96f"/>
+    <title>
+        Merge pull request #4063 from pluehne/debug-submodule-recurse
+    </title>
+    <updated>2020-03-10T13:52:21Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/497054?s=30&amp;u=0ccd1b972aab15ce396ef8358919f97cd0cf8a13&amp;v=4"/>
+    <author>
+      <name>bk2204</name>
+      <uri>https://github.com/bk2204</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #4063 from pluehne/debug-submodule-recurse
+
+Support submodule.recurse = true&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/7838572d72aaea1702bec3182d74cb4419147c34</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/7838572d72aaea1702bec3182d74cb4419147c34"/>
+    <title>
+        Support submodule.recurse = true
+    </title>
+    <updated>2020-03-10T00:59:46Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/3244280?s=30&amp;u=6340c73999dcf6b7d75cf49bc40a30c7072fd317&amp;v=4"/>
+    <author>
+      <name>pluehne</name>
+      <uri>https://github.com/pluehne</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Support submodule.recurse = true
+
+Git’s configuration option submodule.recurse makes it more convenient to
+use submodules. If set to true, top-level checkouts will recurse into
+all submodules. Additionally, Git will pass an environment variable
+called GIT_INTERNAL_SUPER_PREFIX to the respective submodule’s path
+relative to its parent repository to each child process, including git
+lfs filter-process.
+
+In turn, Git LFS spawns a couple of Git processes, for instance, when
+checking the minimum required Git version, reading Git configuration
+values, or obtaining the object name of a commit with git rev-parse.
+
+In the current implementation, Git LFS would forward the environment
+variable GIT_INTERNAL_SUPER_PREFIX to Git unchanged. This is problematic
+because the presence of this environment variable will make Git behave
+as if the command-line option --super-prefix had been passed to the
+respective Git command. However, many commands don’t support the
+--super-prefix command-line option. This includes git version, git
+config, and git rev-parse. Consequently, these Git processes, as spawned
+by Git LFS, would immediately fail with a usage error.
+
+In short, users of submodule.recurse = true would get errors when
+working in repositories with at least one Git-LFS-enabled submodule.
+
+This patch fixes the issue by removing the GIT_INTERNAL_SUPER_PREFIX
+environment variable from the environment Git LFS passes to Git child
+processes.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/36926752c7b700ed773b2fcaea7530b2dbda8a69</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/36926752c7b700ed773b2fcaea7530b2dbda8a69"/>
+    <title>
+        Test submodule.recurse option
+    </title>
+    <updated>2020-03-10T00:37:20Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/3244280?s=30&amp;u=6340c73999dcf6b7d75cf49bc40a30c7072fd317&amp;v=4"/>
+    <author>
+      <name>pluehne</name>
+      <uri>https://github.com/pluehne</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Test submodule.recurse option
+
+This unit test demonstrates an issue that’s present for users of the Git
+configuration option submodule.recurse. When set to true, Git LFS
+reproducibly fails with error messages from Git child processes claiming
+that the command-line option --super-prefix isn’t supported by Git
+commands including git version, git config, and git rev-parse.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/94921b8cced512d723cca691f605eb67cd89a810</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/94921b8cced512d723cca691f605eb67cd89a810"/>
+    <title>
+        Merge pull request #4052 from git-lfs/chrisd/post-commit-man
+    </title>
+    <updated>2020-03-03T23:46:09Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/28857117?s=30&amp;u=4a3f667e3d4f6236b90dabda8718efe655005ad3&amp;v=4"/>
+    <author>
+      <name>chrisd8088</name>
+      <uri>https://github.com/chrisd8088</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #4052 from git-lfs/chrisd/post-commit-man
+
+add man page for the post-commit hook command&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/1db7909df3173950cef6f0308d7537753afb09fd</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/1db7909df3173950cef6f0308d7537753afb09fd"/>
+    <title>
+        Merge branch &#39;master&#39; into chrisd/post-commit-man
+    </title>
+    <updated>2020-03-03T22:59:34Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/28857117?s=30&amp;u=4a3f667e3d4f6236b90dabda8718efe655005ad3&amp;v=4"/>
+    <author>
+      <name>chrisd8088</name>
+      <uri>https://github.com/chrisd8088</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge branch &amp;#39;master&amp;#39; into chrisd/post-commit-man&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/11285f7260f0f20d8337c34306786fa3d2d81133</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/11285f7260f0f20d8337c34306786fa3d2d81133"/>
+    <title>
+        Merge pull request #4045 from git-lfs/chrisd/dedup-ext-exit
+    </title>
+    <updated>2020-03-03T22:58:28Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/28857117?s=30&amp;u=4a3f667e3d4f6236b90dabda8718efe655005ad3&amp;v=4"/>
+    <author>
+      <name>chrisd8088</name>
+      <uri>https://github.com/chrisd8088</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #4045 from git-lfs/chrisd/dedup-ext-exit
+
+fail dedup command with explanation when LFS extensions configured&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/007e2a3c6f1c59d04b3a8da55b5345bc21d14083</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/007e2a3c6f1c59d04b3a8da55b5345bc21d14083"/>
+    <title>
+        docs: reorder plumbing commands in main man page
+    </title>
+    <updated>2020-03-03T02:28:07Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/28857117?s=30&amp;u=4a3f667e3d4f6236b90dabda8718efe655005ad3&amp;v=4"/>
+    <author>
+      <name>chrisd8088</name>
+      <uri>https://github.com/chrisd8088</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;docs: reorder plumbing commands in main man page&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/5472b083ce3c6b6fafa188d82e077689011415de</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/5472b083ce3c6b6fafa188d82e077689011415de"/>
+    <title>
+        docs: add missing commands to main man page
+    </title>
+    <updated>2020-03-03T02:20:14Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/28857117?s=30&amp;u=4a3f667e3d4f6236b90dabda8718efe655005ad3&amp;v=4"/>
+    <author>
+      <name>chrisd8088</name>
+      <uri>https://github.com/chrisd8088</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;docs: add missing commands to main man page
+
+Add a number of newer and plumbing commands to the main Git LFS
+man page, if they were not listed there, except for git-lfs-clone(1)
+which is deprecated per 67723ddee77b and #3301.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ae5d5b09cf606ac36291b0ee5b6092f7fed2f262</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/ae5d5b09cf606ac36291b0ee5b6092f7fed2f262"/>
+    <title>
+        docs: add post-commit hook man page
+    </title>
+    <updated>2020-03-03T02:01:29Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/28857117?s=30&amp;u=4a3f667e3d4f6236b90dabda8718efe655005ad3&amp;v=4"/>
+    <author>
+      <name>chrisd8088</name>
+      <uri>https://github.com/chrisd8088</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;docs: add post-commit hook man page
+
+Add a man page for git-lfs-post-commit(1) which largely
+parallels the git-lfs-post-merge(1) one, as they have similar
+purposes for Git LFS, namely, to ensure all tracked lockable
+files are marked read-only in the working copy.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/b18a07752586bc77b4f85b3ee5b3ffd5cdadd07b</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/b18a07752586bc77b4f85b3ee5b3ffd5cdadd07b"/>
+    <title>
+        t/t-dedup.sh: test lfs extensions prevent dedup
+    </title>
+    <updated>2020-02-28T20:02:37Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/28857117?s=30&amp;u=4a3f667e3d4f6236b90dabda8718efe655005ad3&amp;v=4"/>
+    <author>
+      <name>chrisd8088</name>
+      <uri>https://github.com/chrisd8088</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;t/t-dedup.sh: test lfs extensions prevent dedup
+
+Add tests for both the bare and -t flavours of &amp;quot;git lfs dedup&amp;quot;
+to confirm that having any registered Git LFS extensions cause
+the command to exit with the expected warning message.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/c3a18decc060c8efbb0bb0ea658b3eea3186d77a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/c3a18decc060c8efbb0bb0ea658b3eea3186d77a"/>
+    <title>
+        docs: explain why extensions cause dedup to exit
+    </title>
+    <updated>2020-02-28T06:24:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/28857117?s=30&amp;u=4a3f667e3d4f6236b90dabda8718efe655005ad3&amp;v=4"/>
+    <author>
+      <name>chrisd8088</name>
+      <uri>https://github.com/chrisd8088</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;docs: explain why extensions cause dedup to exit
+
+We note in our docs for the dedup command that it will refuse
+to de-duplicate the working tree if any Git LFS extensions
+are configured, as these have likely caused the object
+storage files to differ from what the user expects in their
+working tree (e.g., by compression).&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/ad532efdec450cc59992531511e8d8616c072b97</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/ad532efdec450cc59992531511e8d8616c072b97"/>
+    <title>
+        command/command_dedup.go: exit if extentions exist
+    </title>
+    <updated>2020-02-28T06:12:36Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/28857117?s=30&amp;u=4a3f667e3d4f6236b90dabda8718efe655005ad3&amp;v=4"/>
+    <author>
+      <name>chrisd8088</name>
+      <uri>https://github.com/chrisd8088</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;command/command_dedup.go: exit if extentions exist
+
+The dedup command should not proceed if any Git LFS
+extensions are configured, because these typically
+will change the contents of the file (e.g., by
+compression) which is written to the local LFS object
+storage tree from what the user expects to see in
+their working tree, and so the working tree files
+should not be cloned (via filesystem reflinks) from
+the object storage files.&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/9a8c9bba5c002f53008179d805ae9465c1481412</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/9a8c9bba5c002f53008179d805ae9465c1481412"/>
+    <title>
+        Merge pull request #4044 from swisspol/patch-1
+    </title>
+    <updated>2020-02-26T14:45:00Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/497054?s=30&amp;u=0ccd1b972aab15ce396ef8358919f97cd0cf8a13&amp;v=4"/>
+    <author>
+      <name>bk2204</name>
+      <uri>https://github.com/bk2204</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #4044 from swisspol/patch-1
+
+Removed lfs.extension.* from list of supported keys for .lfsconfig&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/fa9649c956988bc5ff82938896d8d6800557363a</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/fa9649c956988bc5ff82938896d8d6800557363a"/>
+    <title>
+        Merge pull request #4042 from nataliechen1/master
+    </title>
+    <updated>2020-02-26T14:44:39Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/497054?s=30&amp;u=0ccd1b972aab15ce396ef8358919f97cd0cf8a13&amp;v=4"/>
+    <author>
+      <name>bk2204</name>
+      <uri>https://github.com/bk2204</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #4042 from nataliechen1/master
+
+fix upload retry &amp;#39;file already closed&amp;#39; issue&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/d7d9fd711a35c71d7f2b7f0702245824d4330b00</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/d7d9fd711a35c71d7f2b7f0702245824d4330b00"/>
+    <title>
+        fix upload retry &#39;file already closed&#39; issue&#39;
+    </title>
+    <updated>2020-02-26T03:13:54Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars2.githubusercontent.com/u/46473762?s=30&amp;v=4"/>
+    <author>
+      <name>nataliechen1</name>
+      <uri>https://github.com/nataliechen1</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;fix upload retry &amp;#39;file already closed&amp;#39; issue&amp;#39;&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/de1a5ef56b631771df0ba7a73948802d120caf4d</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/de1a5ef56b631771df0ba7a73948802d120caf4d"/>
+    <title>
+        Removed lfs.extension.* from list of supported keys for .lfsconfig
+    </title>
+    <updated>2020-02-25T20:48:41Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars1.githubusercontent.com/u/627915?s=30&amp;v=4"/>
+    <author>
+      <name>swisspol</name>
+      <uri>https://github.com/swisspol</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Removed lfs.extension.* from list of supported keys for .lfsconfig
+
+The LFS extension keys are not considered safe by Git LFS so attempting to put them in `.lfsconfig` results in such warnings:
+```
+WARNING: These unsafe lfsconfig keys were ignored:
+
+  lfs.extension.gzip.clean
+  lfs.extension.gzip.smudge
+```&lt;/pre&gt;
+    </content>
+  </entry>
+  <entry>
+    <id>tag:github.com,2008:Grit::Commit/043dddc57c15d59f38514169af97257fc99fda11</id>
+    <link type="text/html" rel="alternate" href="https://github.com/git-lfs/git-lfs/commit/043dddc57c15d59f38514169af97257fc99fda11"/>
+    <title>
+        Merge pull request #4035 from bk2204/tidy-modules
+    </title>
+    <updated>2020-02-21T16:28:19Z</updated>
+    <media:thumbnail height="30" width="30" url="https://avatars0.githubusercontent.com/u/497054?s=30&amp;u=0ccd1b972aab15ce396ef8358919f97cd0cf8a13&amp;v=4"/>
+    <author>
+      <name>bk2204</name>
+      <uri>https://github.com/bk2204</uri>
+    </author>
+    <content type="html">
+      &lt;pre style=&#39;white-space:pre-wrap;width:81ex&#39;&gt;Merge pull request #4035 from bk2204/tidy-modules
+
+Tidy modules&lt;/pre&gt;
+    </content>
+  </entry>
+</feed>
